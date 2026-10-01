@@ -11,11 +11,11 @@ options:
 packages:
   KayakomaKit:
     url: https://github.com/beeraw/kayakoma-kit.git
-    from: 1.0.0
+    from: 1.0.1
 
 settings:
   base:
-    MARKETING_VERSION: 0.1.0
+    MARKETING_VERSION: 1.0.0
     CURRENT_PROJECT_VERSION: 1
     SWIFT_VERSION: "6.0"
     CODE_SIGN_IDENTITY: "-"
@@ -72,6 +72,8 @@ targets:
       path: Viewer/Info.plist
       properties:
         CFBundleDisplayName: Kayakoma Viewer
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         LSApplicationCategoryType: public.app-category.productivity
         CFBundleDocumentTypes:
           - CFBundleTypeName: Markdown
@@ -134,6 +136,8 @@ targets:
       path: QuickLook/Info.plist
       properties:
         CFBundleDisplayName: Kayakoma
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         NSExtension:
           NSExtensionPointIdentifier: com.apple.quicklook.preview
           NSExtensionPrincipalClass: $(PRODUCT_MODULE_NAME).PreviewViewController

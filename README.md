@@ -15,6 +15,10 @@ The name: "Kaya koma" means "it is not finished" in Shimaore (Mayotte) — a nod
 
 The sample document shown above is invented.
 
+## Download
+
+Download the latest version from the [Releases page](https://github.com/beeraw/kayakoma-viewer/releases/latest), unzip it and move Kayakoma Viewer to your Applications folder. The app is not notarized by Apple, so macOS blocks it the first time: click "Open Anyway" for Kayakoma Viewer in System Settings > Privacy & Security (the release notes give the details), then launch it once so that the Quick Look extension registers.
+
 ## Features
 
 - Opens Markdown (`.md`, `.markdown`, `.mdown`, `.mkd`) and plain text (`.txt`) files. Documents are never modified.
