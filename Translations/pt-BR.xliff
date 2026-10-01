@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Viewer/Localizable.xcstrings" source-language="fr" target-language="pt-BR" datatype="plaintext">
+    <body>
+      <trans-unit id="%lld car." xml:space="preserve">
+        <source>%lld car.</source>
+        <target state="needs-review-translation">%lld car.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld langages colorés" xml:space="preserve">
+        <source>%lld langages colorés</source>
+        <target state="needs-review-translation">%lld linguagens destacadas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld min de lecture" xml:space="preserve">
+        <source>%lld min de lecture</source>
+        <target state="needs-review-translation">%lld min de leitura</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld mots|==|plural.one" xml:space="preserve">
+        <source>%lld mot</source>
+        <target state="needs-review-translation">%lld palavra</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld mots|==|plural.other" xml:space="preserve">
+        <source>%lld mots</source>
+        <target state="needs-review-translation">%lld palavras</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld pt" xml:space="preserve">
+        <source>%lld pt</source>
+        <target state="needs-review-translation">%lld pt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="(clé « %@ »)" xml:space="preserve">
+        <source>(clé « %@ »)</source>
+        <target state="needs-review-translation">(chave “%@”)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="--- pour un titre 2" xml:space="preserve">
+        <source>--- pour un titre 2</source>
+        <target state="needs-review-translation">--- para um título de nível 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="4 espaces, sans coloration" xml:space="preserve">
+        <source>4 espaces, sans coloration</source>
+        <target state="needs-review-translation">4 espaços, sem destaque de sintaxe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A4" xml:space="preserve">
+        <source>A4</source>
+        <target state="needs-review-translation">A4</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Accès" xml:space="preserve">
+        <source>Accès</source>
+        <target state="needs-review-translation">Acesso</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Activé" xml:space="preserve">
+        <source>Activé</source>
+        <target state="needs-review-translation">Ativado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresse" xml:space="preserve">
+        <source>Adresse</source>
+        <target state="needs-review-translation">Endereço</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresses nues" xml:space="preserve">
+        <source>Adresses nues</source>
+        <target state="needs-review-translation">Endereços soltos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher dans le Finder" xml:space="preserve">
+        <source>Afficher dans le Finder</source>
+        <target state="needs-review-translation">Mostrar no Finder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher le sommaire à partir de 4 titres" xml:space="preserve">
+        <source>Afficher le sommaire à partir de 4 titres</source>
+        <target state="needs-review-translation">Mostrar o sumário a partir de 4 títulos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher ou masquer le sommaire" xml:space="preserve">
+        <source>Afficher ou masquer le sommaire</source>
+        <target state="needs-review-translation">Mostrar ou ocultar o sumário</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Agrandir le texte" xml:space="preserve">
+        <source>Agrandir le texte</source>
+        <target state="needs-review-translation">Aumentar texto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aide-mémoire Markdown" xml:space="preserve">
+        <source>Aide-mémoire Markdown</source>
+        <target state="needs-review-translation">Guia rápido de Markdown</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alignement" xml:space="preserve">
+        <source>Alignement</source>
+        <target state="needs-review-translation">Alinhamento</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apparence" xml:space="preserve">
+        <source>Apparence</source>
+        <target state="needs-review-translation">Aparência</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun résultat" xml:space="preserve">
+        <source>Aucun résultat</source>
+        <target state="needs-review-translation">Nenhum resultado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun titre" xml:space="preserve">
+        <source>Aucun titre</source>
+        <target state="needs-review-translation">Nenhum título</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aussi : %@" xml:space="preserve">
+        <source>Aussi : %@</source>
+        <target state="needs-review-translation">Também: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto" xml:space="preserve">
+        <source>Auto</source>
+        <target state="needs-review-translation">Auto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Barré" xml:space="preserve">
+        <source>Barré</source>
+        <target state="needs-review-translation">Tachado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bloc de code" xml:space="preserve">
+        <source>Bloc de code</source>
+        <target state="needs-review-translation">Bloco de código</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce document n'a pas de titres." xml:space="preserve">
+        <source>Ce document n'a pas de titres.</source>
+        <target state="needs-review-translation">Este documento não tem títulos.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">Este arquivo contém texto que não é Markdown. O Kayakoma Viewer lê arquivos Markdown (.md, .markdown) e texto simples.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">Este arquivo não é de texto. O Kayakoma Viewer lê arquivos Markdown (.md, .markdown) e texto simples.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choisissez un fichier de thème JSON." xml:space="preserve">
+        <source>Choisissez un fichier de thème JSON.</source>
+        <target state="needs-review-translation">Escolha um arquivo de tema JSON.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citation" xml:space="preserve">
+        <source>Citation</source>
+        <target state="needs-review-translation">Citação</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citations et séparateurs" xml:space="preserve">
+        <source>Citations et séparateurs</source>
+        <target state="needs-review-translation">Citações e separadores</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clair" xml:space="preserve">
+        <source>Clair</source>
+        <target state="needs-review-translation">Claro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <target state="needs-review-translation">Código</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code en ligne" xml:space="preserve">
+        <source>Code en ligne</source>
+        <target state="needs-review-translation">Código em linha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Colonne" xml:space="preserve">
+        <source>Colonne</source>
+        <target state="needs-review-translation">Coluna</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copier" xml:space="preserve">
+        <source>Copier</source>
+        <target state="needs-review-translation">Copiar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copié dans le presse-papiers" xml:space="preserve">
+        <source>Copié dans le presse-papiers</source>
+        <target state="needs-review-translation">Copiado para a área de transferência</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dossier des thèmes" xml:space="preserve">
+        <source>Dossier des thèmes</source>
+        <target state="needs-review-translation">Pasta de temas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Double-clic : copier la syntaxe" xml:space="preserve">
+        <source>Double-clic : copier la syntaxe</source>
+        <target state="needs-review-translation">Clique duplo: copiar a sintaxe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Départ choisi" xml:space="preserve">
+        <source>Départ choisi</source>
+        <target state="needs-review-translation">Partida escolhida</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Désactivé" xml:space="preserve">
+        <source>Désactivé</source>
+        <target state="needs-review-translation">Desativado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Effacer la recherche" xml:space="preserve">
+        <source>Effacer la recherche</source>
+        <target state="needs-review-translation">Limpar a busca</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Encadrés" xml:space="preserve">
+        <source>Encadrés</source>
+        <target state="needs-review-translation">Avisos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF" xml:space="preserve">
+        <source>Exporter en PDF</source>
+        <target state="needs-review-translation">Exportar como PDF</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF…" xml:space="preserve">
+        <source>Exporter en PDF…</source>
+        <target state="needs-review-translation">Exportar como PDF…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fermer" xml:space="preserve">
+        <source>Fermer</source>
+        <target state="needs-review-translation">Fechar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fichier JSON partiel, complété par le thème par défaut" xml:space="preserve">
+        <source>Fichier JSON partiel, complété par le thème par défaut</source>
+        <target state="needs-review-translation">Arquivo JSON parcial, completado pelo tema padrão</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Format du papier :" xml:space="preserve">
+        <source>Format du papier :</source>
+        <target state="needs-review-translation">Tamanho do papel:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Formules et diagrammes" xml:space="preserve">
+        <source>Formules et diagrammes</source>
+        <target state="needs-review-translation">Fórmulas e diagramas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras" xml:space="preserve">
+        <source>Gras</source>
+        <target state="needs-review-translation">Negrito</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras italique" xml:space="preserve">
+        <source>Gras italique</source>
+        <target state="needs-review-translation">Negrito itálico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guide" xml:space="preserve">
+        <source>Guide</source>
+        <target state="needs-review-translation">Guia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Général" xml:space="preserve">
+        <source>Général</source>
+        <target state="needs-review-translation">Geral</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTML" xml:space="preserve">
+        <source>HTML</source>
+        <target state="needs-review-translation">HTML</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image" xml:space="preserve">
+        <source>Image</source>
+        <target state="needs-review-translation">Imagem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Images distantes" xml:space="preserve">
+        <source>Images distantes</source>
+        <target state="needs-review-translation">Imagens remotas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Imbriquée" xml:space="preserve">
+        <source>Imbriquée</source>
+        <target state="needs-review-translation">Aninhada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Impossible d'afficher « %@ »" xml:space="preserve">
+        <source>Impossible d'afficher « %@ »</source>
+        <target state="needs-review-translation">Não foi possível mostrar “%@”</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indenté" xml:space="preserve">
+        <source>Indenté</source>
+        <target state="needs-review-translation">Recuada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Italique" xml:space="preserve">
+        <source>Italique</source>
+        <target state="needs-review-translation">Itálico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Km" xml:space="preserve">
+        <source>Km</source>
+        <target state="needs-review-translation">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Langage inconnu : bloc avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">Linguagem desconhecida: bloco com seu rótulo, sem destaque de sintaxe.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Largeur maximale de ligne" xml:space="preserve">
+        <source>Largeur maximale de ligne</source>
+        <target state="needs-review-translation">Largura máxima da linha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Le thème « %@ » n'a pas pu être chargé." xml:space="preserve">
+        <source>Le thème « %@ » n'a pas pu être chargé.</source>
+        <target state="needs-review-translation">Não foi possível carregar o tema “%@”.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien" xml:space="preserve">
+        <source>Lien</source>
+        <target state="needs-review-translation">Link</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien de référence" xml:space="preserve">
+        <source>Lien de référence</source>
+        <target state="needs-review-translation">Link de referência</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Liens et images" xml:space="preserve">
+        <source>Liens et images</source>
+        <target state="needs-review-translation">Links e imagens</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lieu" xml:space="preserve">
+        <source>Lieu</source>
+        <target state="needs-review-translation">Local</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes" xml:space="preserve">
+        <source>Listes</source>
+        <target state="needs-review-translation">Listas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes de définitions, identifiants de titre, fusion de cellules" xml:space="preserve">
+        <source>Listes de définitions, identifiants de titre, fusion de cellules</source>
+        <target state="needs-review-translation">Listas de definição, IDs de título, mesclagem de células</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="needs-review-translation">Modo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier" xml:space="preserve">
+        <source>Modifier</source>
+        <target state="needs-review-translation">Editar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier dans Kayakoma Editor (⌘E)" xml:space="preserve">
+        <source>Modifier dans Kayakoma Editor (⌘E)</source>
+        <target state="needs-review-translation">Editar no Kayakoma Editor (⌘E)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Non pris en charge" xml:space="preserve">
+        <source>Non pris en charge</source>
+        <target state="needs-review-translation">Não compatível</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notes de bas de page" xml:space="preserve">
+        <source>Notes de bas de page</source>
+        <target state="needs-review-translation">Notas de rodapé</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numérotée" xml:space="preserve">
+        <source>Numérotée</source>
+        <target state="needs-review-translation">Numerada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir dans l'Éditeur" xml:space="preserve">
+        <source>Ouvrir dans l'Éditeur</source>
+        <target state="needs-review-translation">Abrir no Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir le dossier des thèmes" xml:space="preserve">
+        <source>Ouvrir le dossier des thèmes</source>
+        <target state="needs-review-translation">Abrir pasta de temas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir les fenêtres en grand" xml:space="preserve">
+        <source>Ouvrir les fenêtres en grand</source>
+        <target state="needs-review-translation">Abrir janelas em tamanho grande</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un autre fichier…" xml:space="preserve">
+        <source>Ouvrir un autre fichier…</source>
+        <target state="needs-review-translation">Abrir outro arquivo…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un fichier de thème…" xml:space="preserve">
+        <source>Ouvrir un fichier de thème…</source>
+        <target state="needs-review-translation">Abrir um arquivo de tema…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir…" xml:space="preserve">
+        <source>Ouvrir…</source>
+        <target state="needs-review-translation">Abrir…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Papier" xml:space="preserve">
+        <source>Papier</source>
+        <target state="needs-review-translation">Papel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Par défaut" xml:space="preserve">
+        <source>Par défaut</source>
+        <target state="needs-review-translation">Padrão</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager" xml:space="preserve">
+        <source>Partager</source>
+        <target state="needs-review-translation">Compartilhar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager ou exporter en PDF" xml:space="preserve">
+        <source>Partager ou exporter en PDF</source>
+        <target state="needs-review-translation">Compartilhar ou exportar como PDF</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager…" xml:space="preserve">
+        <source>Partager…</source>
+        <target state="needs-review-translation">Compartilhar…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Plan" xml:space="preserve">
+        <source>Plan</source>
+        <target state="needs-review-translation">Mapa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ponton" xml:space="preserve">
+        <source>Ponton</source>
+        <target state="needs-review-translation">Píer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recharger quand le fichier change sur le disque" xml:space="preserve">
+        <source>Recharger quand le fichier change sur le disque</source>
+        <target state="needs-review-translation">Recarregar quando o arquivo mudar no disco</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher" xml:space="preserve">
+        <source>Rechercher</source>
+        <target state="needs-review-translation">Buscar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher dans l'aide-mémoire" xml:space="preserve">
+        <source>Rechercher dans l'aide-mémoire</source>
+        <target state="needs-review-translation">Buscar no guia rápido</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réduire le texte" xml:space="preserve">
+        <source>Réduire le texte</source>
+        <target state="needs-review-translation">Diminuir texto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réglages de lecture" xml:space="preserve">
+        <source>Réglages de lecture</source>
+        <target state="needs-review-translation">Opções de leitura</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans langage" xml:space="preserve">
+        <source>Sans langage</source>
+        <target state="needs-review-translation">Sem linguagem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans titre" xml:space="preserve">
+        <source>Sans titre</source>
+        <target state="needs-review-translation">Sem título</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saut de ligne" xml:space="preserve">
+        <source>Saut de ligne</source>
+        <target state="needs-review-translation">Quebra de linha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sombre" xml:space="preserve">
+        <source>Sombre</source>
+        <target state="needs-review-translation">Escuro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sommaire" xml:space="preserve">
+        <source>Sommaire</source>
+        <target state="needs-review-translation">Sumário</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Surlignage, indice, exposant, emoji" xml:space="preserve">
+        <source>Surlignage, indice, exposant, emoji</source>
+        <target state="needs-review-translation">Destaque, subscrito, sobrescrito, emoji</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Séparateur" xml:space="preserve">
+        <source>Séparateur</source>
+        <target state="needs-review-translation">Separador</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableau" xml:space="preserve">
+        <source>Tableau</source>
+        <target state="needs-review-translation">Tabela</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableaux" xml:space="preserve">
+        <source>Tableaux</source>
+        <target state="needs-review-translation">Tabelas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille" xml:space="preserve">
+        <source>Taille</source>
+        <target state="needs-review-translation">Tamanho</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte" xml:space="preserve">
+        <source>Taille du texte</source>
+        <target state="needs-review-translation">Tamanho do texto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte, thème et apparence" xml:space="preserve">
+        <source>Taille du texte, thème et apparence</source>
+        <target state="needs-review-translation">Tamanho do texto, tema e aparência</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille par défaut" xml:space="preserve">
+        <source>Taille par défaut</source>
+        <target state="needs-review-translation">Tamanho padrão</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terminé" xml:space="preserve">
+        <source>Terminé</source>
+        <target state="needs-review-translation">Concluído</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Texte" xml:space="preserve">
+        <source>Texte</source>
+        <target state="needs-review-translation">Texto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème" xml:space="preserve">
+        <source>Thème</source>
+        <target state="needs-review-translation">Tema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème personnalisé" xml:space="preserve">
+        <source>Thème personnalisé</source>
+        <target state="needs-review-translation">Tema personalizado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre" xml:space="preserve">
+        <source>Titre</source>
+        <target state="needs-review-translation">Título</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 1" xml:space="preserve">
+        <source>Titre 1</source>
+        <target state="needs-review-translation">Título 1</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 2" xml:space="preserve">
+        <source>Titre 2</source>
+        <target state="needs-review-translation">Título 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 3" xml:space="preserve">
+        <source>Titre 3</source>
+        <target state="needs-review-translation">Título 3</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre souligné" xml:space="preserve">
+        <source>Titre souligné</source>
+        <target state="needs-review-translation">Título sublinhado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres" xml:space="preserve">
+        <source>Titres</source>
+        <target state="needs-review-translation">Títulos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres 4 à 6" xml:space="preserve">
+        <source>Titres 4 à 6</source>
+        <target state="needs-review-translation">Títulos 4 a 6</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Typographie" xml:space="preserve">
+        <source>Typographie</source>
+        <target state="needs-review-translation">Tipografia</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tâches" xml:space="preserve">
+        <source>Tâches</source>
+        <target state="needs-review-translation">Tarefas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="US Letter" xml:space="preserve">
+        <source>US Letter</source>
+        <target state="needs-review-translation">US Letter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">Uma linguagem desconhecida após ``` gera um bloco de código com seu rótulo, sem destaque de sintaxe.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Valeur" xml:space="preserve">
+        <source>Valeur</source>
+        <target state="needs-review-translation">Valor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un fichier" xml:space="preserve">
+        <source>Vers un fichier</source>
+        <target state="needs-review-translation">Para um arquivo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un titre" xml:space="preserve">
+        <source>Vers un titre</source>
+        <target state="needs-review-translation">Para um título</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="accès" xml:space="preserve">
+        <source>accès</source>
+        <target state="needs-review-translation">acesso</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affiché tel quel, jamais interprété" xml:space="preserve">
+        <source>affiché tel quel, jamais interprété</source>
+        <target state="needs-review-translation">exibido como está, nunca interpretado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme du texte ou du code" xml:space="preserve">
+        <source>affichés comme du texte ou du code</source>
+        <target state="needs-review-translation">exibidos como texto ou código</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme une citation ordinaire" xml:space="preserve">
+        <source>affichés comme une citation ordinaire</source>
+        <target state="needs-review-translation">exibidos como uma citação comum</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arbres" xml:space="preserve">
+        <source>arbres</source>
+        <target state="needs-review-translation">árvores</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arrivée" xml:space="preserve">
+        <source>arrivée</source>
+        <target state="needs-review-translation">chegada</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="automatique ; les « » se tapent directement" xml:space="preserve">
+        <source>automatique ; les « » se tapent directement</source>
+        <target state="needs-review-translation">automático; as outras aspas são digitadas diretamente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="baobab" xml:space="preserve">
+        <source>baobab</source>
+        <target state="needs-review-translation">baobá</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="centre" xml:space="preserve">
+        <source>centre</source>
+        <target state="needs-review-translation">centro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="code" xml:space="preserve">
+        <source>code</source>
+        <target state="needs-review-translation">código</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="description" xml:space="preserve">
+        <source>description</source>
+        <target state="needs-review-translation">descrição</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="docs/guide.md" xml:space="preserve">
+        <source>docs/guide.md</source>
+        <target state="needs-review-translation">docs/guide.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="droite" xml:space="preserve">
+        <source>droite</source>
+        <target state="needs-review-translation">direita</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="départ" xml:space="preserve">
+        <source>départ</source>
+        <target state="needs-review-translation">partida</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="entre chevrons, sinon pas de lien" xml:space="preserve">
+        <source>entre chevrons, sinon pas de lien</source>
+        <target state="needs-review-translation">entre os sinais &lt; &gt;, senão não há link</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait" xml:space="preserve">
+        <source>fait</source>
+        <target state="needs-review-translation">feito</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait défiler jusqu'au titre" xml:space="preserve">
+        <source>fait défiler jusqu'au titre</source>
+        <target state="needs-review-translation">rola até o título</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier local, chemin relatif ou absolu" xml:space="preserve">
+        <source>fichier local, chemin relatif ou absolu</source>
+        <target state="needs-review-translation">arquivo local, caminho relativo ou absoluto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier.md" xml:space="preserve">
+        <source>fichier.md</source>
+        <target state="needs-review-translation">arquivo.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fin de ligne" xml:space="preserve">
+        <source>fin de ligne</source>
+        <target state="needs-review-translation">fim de linha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gauche" xml:space="preserve">
+        <source>gauche</source>
+        <target state="needs-review-translation">esquerda</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="image.png" xml:space="preserve">
+        <source>image.png</source>
+        <target state="needs-review-translation">image.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="images/plan.png" xml:space="preserve">
+        <source>images/plan.png</source>
+        <target state="needs-review-translation">images/mapa.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jusqu'à ######" xml:space="preserve">
+        <source>jusqu'à ######</source>
+        <target state="needs-review-translation">até ######</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="langage" xml:space="preserve">
+        <source>langage</source>
+        <target state="needs-review-translation">linguagem</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lu en %@" xml:space="preserve">
+        <source>lu en %@</source>
+        <target state="needs-review-translation">lido como %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mise en forme possible dans les cellules" xml:space="preserve">
+        <source>mise en forme possible dans les cellules</source>
+        <target state="needs-review-translation">formatação possível nas células</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="non reconnus" xml:space="preserve">
+        <source>non reconnus</source>
+        <target state="needs-review-translation">não reconhecidos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou *** et ___" xml:space="preserve">
+        <source>ou *** et ___</source>
+        <target state="needs-review-translation">ou *** e ___</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou deux espaces en fin de ligne" xml:space="preserve">
+        <source>ou deux espaces en fin de ligne</source>
+        <target state="needs-review-translation">ou dois espaços no fim da linha</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou ~~~ à la place de ```" xml:space="preserve">
+        <source>ou ~~~ à la place de ```</source>
+        <target state="needs-review-translation">ou ~~~ no lugar de ```</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="oui" xml:space="preserve">
+        <source>oui</source>
+        <target state="needs-review-translation">sim</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas d'italique" xml:space="preserve">
+        <source>pas d'italique</source>
+        <target state="needs-review-translation">sem itálico</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas de lien sans les chevrons &lt; &gt;" xml:space="preserve">
+        <source>pas de lien sans les chevrons &lt; &gt;</source>
+        <target state="needs-review-translation">sem os sinais &lt; &gt; não há link</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas téléchargées : une icône et le texte alternatif" xml:space="preserve">
+        <source>pas téléchargées : une icône et le texte alternatif</source>
+        <target state="needs-review-translation">não baixadas: um ícone e o texto alternativo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="premier niveau" xml:space="preserve">
+        <source>premier niveau</source>
+        <target state="needs-review-translation">primeiro nível</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="quatrième" xml:space="preserve">
+        <source>quatrième</source>
+        <target state="needs-review-translation">quarto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="restent du texte" xml:space="preserve">
+        <source>restent du texte</source>
+        <target state="needs-review-translation">continuam como texto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="second" xml:space="preserve">
+        <source>second</source>
+        <target state="needs-review-translation">segundo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="suite" xml:space="preserve">
+        <source>suite</source>
+        <target state="needs-review-translation">continuação</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tamarinier" xml:space="preserve">
+        <source>tamarinier</source>
+        <target state="needs-review-translation">tamarindo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte" xml:space="preserve">
+        <source>texte</source>
+        <target state="needs-review-translation">texto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte brut" xml:space="preserve">
+        <source>texte brut</source>
+        <target state="needs-review-translation">texto simples</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte cité" xml:space="preserve">
+        <source>texte cité</source>
+        <target state="needs-review-translation">texto citado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="titre" xml:space="preserve">
+        <source>titre</source>
+        <target state="needs-review-translation">título</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="troisième" xml:space="preserve">
+        <source>troisième</source>
+        <target state="needs-review-translation">terceiro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="À puces" xml:space="preserve">
+        <source>À puces</source>
+        <target state="needs-review-translation">Com marcadores</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Échappement" xml:space="preserve">
+        <source>Échappement</source>
+        <target state="needs-review-translation">Escape</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="à faire" xml:space="preserve">
+        <source>à faire</source>
+        <target state="needs-review-translation">a fazer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="élément" xml:space="preserve">
+        <source>élément</source>
+        <target state="needs-review-translation">item</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

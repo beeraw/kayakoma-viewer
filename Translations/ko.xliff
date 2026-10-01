@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Viewer/Localizable.xcstrings" source-language="fr" target-language="ko" datatype="plaintext">
+    <body>
+      <trans-unit id="%lld car." xml:space="preserve">
+        <source>%lld car.</source>
+        <target state="needs-review-translation">%lld자</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld langages colorés" xml:space="preserve">
+        <source>%lld langages colorés</source>
+        <target state="needs-review-translation">%lld개 구문 강조 언어</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld min de lecture" xml:space="preserve">
+        <source>%lld min de lecture</source>
+        <target state="needs-review-translation">읽는 데 %lld분</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld mots|==|plural.other" xml:space="preserve">
+        <source>%lld mots</source>
+        <target state="needs-review-translation">%lld단어</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld pt" xml:space="preserve">
+        <source>%lld pt</source>
+        <target state="needs-review-translation">%lld pt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="(clé « %@ »)" xml:space="preserve">
+        <source>(clé « %@ »)</source>
+        <target state="needs-review-translation">(키 “%@”)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="--- pour un titre 2" xml:space="preserve">
+        <source>--- pour un titre 2</source>
+        <target state="needs-review-translation">--- 는 2단계 제목</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="4 espaces, sans coloration" xml:space="preserve">
+        <source>4 espaces, sans coloration</source>
+        <target state="needs-review-translation">공백 4칸, 구문 강조 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A4" xml:space="preserve">
+        <source>A4</source>
+        <target state="needs-review-translation">A4</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Accès" xml:space="preserve">
+        <source>Accès</source>
+        <target state="needs-review-translation">접근</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Activé" xml:space="preserve">
+        <source>Activé</source>
+        <target state="needs-review-translation">켬</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresse" xml:space="preserve">
+        <source>Adresse</source>
+        <target state="needs-review-translation">주소</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresses nues" xml:space="preserve">
+        <source>Adresses nues</source>
+        <target state="needs-review-translation">주소만</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher dans le Finder" xml:space="preserve">
+        <source>Afficher dans le Finder</source>
+        <target state="needs-review-translation">Finder에서 보기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher le sommaire à partir de 4 titres" xml:space="preserve">
+        <source>Afficher le sommaire à partir de 4 titres</source>
+        <target state="needs-review-translation">제목이 4개 이상인 경우 개요 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher ou masquer le sommaire" xml:space="preserve">
+        <source>Afficher ou masquer le sommaire</source>
+        <target state="needs-review-translation">개요 보기 또는 가리기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Agrandir le texte" xml:space="preserve">
+        <source>Agrandir le texte</source>
+        <target state="needs-review-translation">텍스트 더 크게</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aide-mémoire Markdown" xml:space="preserve">
+        <source>Aide-mémoire Markdown</source>
+        <target state="needs-review-translation">Markdown 치트 시트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alignement" xml:space="preserve">
+        <source>Alignement</source>
+        <target state="needs-review-translation">정렬</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apparence" xml:space="preserve">
+        <source>Apparence</source>
+        <target state="needs-review-translation">화면 모드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun résultat" xml:space="preserve">
+        <source>Aucun résultat</source>
+        <target state="needs-review-translation">결과 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun titre" xml:space="preserve">
+        <source>Aucun titre</source>
+        <target state="needs-review-translation">제목 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aussi : %@" xml:space="preserve">
+        <source>Aussi : %@</source>
+        <target state="needs-review-translation">그 밖에: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto" xml:space="preserve">
+        <source>Auto</source>
+        <target state="needs-review-translation">자동</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Barré" xml:space="preserve">
+        <source>Barré</source>
+        <target state="needs-review-translation">취소선</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bloc de code" xml:space="preserve">
+        <source>Bloc de code</source>
+        <target state="needs-review-translation">코드 블록</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce document n'a pas de titres." xml:space="preserve">
+        <source>Ce document n'a pas de titres.</source>
+        <target state="needs-review-translation">이 문서에는 제목이 없습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">이 파일에는 Markdown이 아닌 텍스트가 포함되어 있습니다. Kayakoma Viewer는 Markdown 파일(.md, .markdown)과 일반 텍스트를 읽습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">이 파일은 텍스트가 아닙니다. Kayakoma Viewer는 Markdown 파일(.md, .markdown)과 일반 텍스트를 읽습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choisissez un fichier de thème JSON." xml:space="preserve">
+        <source>Choisissez un fichier de thème JSON.</source>
+        <target state="needs-review-translation">JSON 테마 파일을 선택하십시오.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citation" xml:space="preserve">
+        <source>Citation</source>
+        <target state="needs-review-translation">인용</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citations et séparateurs" xml:space="preserve">
+        <source>Citations et séparateurs</source>
+        <target state="needs-review-translation">인용과 구분선</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clair" xml:space="preserve">
+        <source>Clair</source>
+        <target state="needs-review-translation">밝게</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <target state="needs-review-translation">코드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code en ligne" xml:space="preserve">
+        <source>Code en ligne</source>
+        <target state="needs-review-translation">인라인 코드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Colonne" xml:space="preserve">
+        <source>Colonne</source>
+        <target state="needs-review-translation">열</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copier" xml:space="preserve">
+        <source>Copier</source>
+        <target state="needs-review-translation">복사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copié dans le presse-papiers" xml:space="preserve">
+        <source>Copié dans le presse-papiers</source>
+        <target state="needs-review-translation">클립보드에 복사됨</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dossier des thèmes" xml:space="preserve">
+        <source>Dossier des thèmes</source>
+        <target state="needs-review-translation">테마 폴더</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Double-clic : copier la syntaxe" xml:space="preserve">
+        <source>Double-clic : copier la syntaxe</source>
+        <target state="needs-review-translation">더블 클릭: 구문 복사</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Départ choisi" xml:space="preserve">
+        <source>Départ choisi</source>
+        <target state="needs-review-translation">선택한 출발점</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Désactivé" xml:space="preserve">
+        <source>Désactivé</source>
+        <target state="needs-review-translation">끔</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Effacer la recherche" xml:space="preserve">
+        <source>Effacer la recherche</source>
+        <target state="needs-review-translation">검색 지우기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Encadrés" xml:space="preserve">
+        <source>Encadrés</source>
+        <target state="needs-review-translation">콜아웃</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF" xml:space="preserve">
+        <source>Exporter en PDF</source>
+        <target state="needs-review-translation">PDF로 내보내기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF…" xml:space="preserve">
+        <source>Exporter en PDF…</source>
+        <target state="needs-review-translation">PDF로 내보내기…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fermer" xml:space="preserve">
+        <source>Fermer</source>
+        <target state="needs-review-translation">닫기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fichier JSON partiel, complété par le thème par défaut" xml:space="preserve">
+        <source>Fichier JSON partiel, complété par le thème par défaut</source>
+        <target state="needs-review-translation">일부만 있는 JSON 파일, 나머지는 기본 테마로 채워짐</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Format du papier :" xml:space="preserve">
+        <source>Format du papier :</source>
+        <target state="needs-review-translation">용지 크기:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Formules et diagrammes" xml:space="preserve">
+        <source>Formules et diagrammes</source>
+        <target state="needs-review-translation">수식 및 다이어그램</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras" xml:space="preserve">
+        <source>Gras</source>
+        <target state="needs-review-translation">굵게</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras italique" xml:space="preserve">
+        <source>Gras italique</source>
+        <target state="needs-review-translation">굵은 기울임꼴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guide" xml:space="preserve">
+        <source>Guide</source>
+        <target state="needs-review-translation">가이드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Général" xml:space="preserve">
+        <source>Général</source>
+        <target state="needs-review-translation">일반</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTML" xml:space="preserve">
+        <source>HTML</source>
+        <target state="needs-review-translation">HTML</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image" xml:space="preserve">
+        <source>Image</source>
+        <target state="needs-review-translation">이미지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Images distantes" xml:space="preserve">
+        <source>Images distantes</source>
+        <target state="needs-review-translation">원격 이미지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Imbriquée" xml:space="preserve">
+        <source>Imbriquée</source>
+        <target state="needs-review-translation">중첩</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Impossible d'afficher « %@ »" xml:space="preserve">
+        <source>Impossible d'afficher « %@ »</source>
+        <target state="needs-review-translation">“%@”을(를) 표시할 수 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indenté" xml:space="preserve">
+        <source>Indenté</source>
+        <target state="needs-review-translation">들여쓰기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Italique" xml:space="preserve">
+        <source>Italique</source>
+        <target state="needs-review-translation">기울임꼴</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Km" xml:space="preserve">
+        <source>Km</source>
+        <target state="needs-review-translation">km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Langage inconnu : bloc avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">알 수 없는 언어: 구문 강조 없이 레이블이 있는 블록으로 표시됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Largeur maximale de ligne" xml:space="preserve">
+        <source>Largeur maximale de ligne</source>
+        <target state="needs-review-translation">최대 줄 너비</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Le thème « %@ » n'a pas pu être chargé." xml:space="preserve">
+        <source>Le thème « %@ » n'a pas pu être chargé.</source>
+        <target state="needs-review-translation">테마 “%@”을(를) 불러올 수 없습니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien" xml:space="preserve">
+        <source>Lien</source>
+        <target state="needs-review-translation">링크</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien de référence" xml:space="preserve">
+        <source>Lien de référence</source>
+        <target state="needs-review-translation">참조 링크</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Liens et images" xml:space="preserve">
+        <source>Liens et images</source>
+        <target state="needs-review-translation">링크 및 이미지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lieu" xml:space="preserve">
+        <source>Lieu</source>
+        <target state="needs-review-translation">장소</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes" xml:space="preserve">
+        <source>Listes</source>
+        <target state="needs-review-translation">목록</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes de définitions, identifiants de titre, fusion de cellules" xml:space="preserve">
+        <source>Listes de définitions, identifiants de titre, fusion de cellules</source>
+        <target state="needs-review-translation">정의 목록, 제목 ID, 셀 병합</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="needs-review-translation">모드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier" xml:space="preserve">
+        <source>Modifier</source>
+        <target state="needs-review-translation">편집</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier dans Kayakoma Editor (⌘E)" xml:space="preserve">
+        <source>Modifier dans Kayakoma Editor (⌘E)</source>
+        <target state="needs-review-translation">Kayakoma Editor에서 편집 (⌘E)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Non pris en charge" xml:space="preserve">
+        <source>Non pris en charge</source>
+        <target state="needs-review-translation">지원되지 않음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notes de bas de page" xml:space="preserve">
+        <source>Notes de bas de page</source>
+        <target state="needs-review-translation">각주</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numérotée" xml:space="preserve">
+        <source>Numérotée</source>
+        <target state="needs-review-translation">번호 목록</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir dans l'Éditeur" xml:space="preserve">
+        <source>Ouvrir dans l'Éditeur</source>
+        <target state="needs-review-translation">Kayakoma Editor에서 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir le dossier des thèmes" xml:space="preserve">
+        <source>Ouvrir le dossier des thèmes</source>
+        <target state="needs-review-translation">테마 폴더 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir les fenêtres en grand" xml:space="preserve">
+        <source>Ouvrir les fenêtres en grand</source>
+        <target state="needs-review-translation">윈도우를 최대 크기로 열기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un autre fichier…" xml:space="preserve">
+        <source>Ouvrir un autre fichier…</source>
+        <target state="needs-review-translation">다른 파일 열기…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un fichier de thème…" xml:space="preserve">
+        <source>Ouvrir un fichier de thème…</source>
+        <target state="needs-review-translation">테마 파일 열기…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir…" xml:space="preserve">
+        <source>Ouvrir…</source>
+        <target state="needs-review-translation">열기…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Papier" xml:space="preserve">
+        <source>Papier</source>
+        <target state="needs-review-translation">용지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Par défaut" xml:space="preserve">
+        <source>Par défaut</source>
+        <target state="needs-review-translation">기본값</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager" xml:space="preserve">
+        <source>Partager</source>
+        <target state="needs-review-translation">공유</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager ou exporter en PDF" xml:space="preserve">
+        <source>Partager ou exporter en PDF</source>
+        <target state="needs-review-translation">공유 또는 PDF로 내보내기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager…" xml:space="preserve">
+        <source>Partager…</source>
+        <target state="needs-review-translation">공유…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Plan" xml:space="preserve">
+        <source>Plan</source>
+        <target state="needs-review-translation">지도</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ponton" xml:space="preserve">
+        <source>Ponton</source>
+        <target state="needs-review-translation">부두</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recharger quand le fichier change sur le disque" xml:space="preserve">
+        <source>Recharger quand le fichier change sur le disque</source>
+        <target state="needs-review-translation">디스크에서 파일이 변경되면 다시 로드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher" xml:space="preserve">
+        <source>Rechercher</source>
+        <target state="needs-review-translation">검색</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher dans l'aide-mémoire" xml:space="preserve">
+        <source>Rechercher dans l'aide-mémoire</source>
+        <target state="needs-review-translation">치트 시트 검색</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réduire le texte" xml:space="preserve">
+        <source>Réduire le texte</source>
+        <target state="needs-review-translation">텍스트 더 작게</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réglages de lecture" xml:space="preserve">
+        <source>Réglages de lecture</source>
+        <target state="needs-review-translation">읽기 옵션</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans langage" xml:space="preserve">
+        <source>Sans langage</source>
+        <target state="needs-review-translation">언어 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans titre" xml:space="preserve">
+        <source>Sans titre</source>
+        <target state="needs-review-translation">제목 없음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saut de ligne" xml:space="preserve">
+        <source>Saut de ligne</source>
+        <target state="needs-review-translation">줄 바꿈</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sombre" xml:space="preserve">
+        <source>Sombre</source>
+        <target state="needs-review-translation">어둡게</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sommaire" xml:space="preserve">
+        <source>Sommaire</source>
+        <target state="needs-review-translation">목차</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Surlignage, indice, exposant, emoji" xml:space="preserve">
+        <source>Surlignage, indice, exposant, emoji</source>
+        <target state="needs-review-translation">강조 표시, 아래 첨자, 위 첨자, 이모지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Séparateur" xml:space="preserve">
+        <source>Séparateur</source>
+        <target state="needs-review-translation">구분선</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableau" xml:space="preserve">
+        <source>Tableau</source>
+        <target state="needs-review-translation">표</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableaux" xml:space="preserve">
+        <source>Tableaux</source>
+        <target state="needs-review-translation">표</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille" xml:space="preserve">
+        <source>Taille</source>
+        <target state="needs-review-translation">크기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte" xml:space="preserve">
+        <source>Taille du texte</source>
+        <target state="needs-review-translation">텍스트 크기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte, thème et apparence" xml:space="preserve">
+        <source>Taille du texte, thème et apparence</source>
+        <target state="needs-review-translation">텍스트 크기, 테마 및 화면 모드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille par défaut" xml:space="preserve">
+        <source>Taille par défaut</source>
+        <target state="needs-review-translation">기본 크기</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terminé" xml:space="preserve">
+        <source>Terminé</source>
+        <target state="needs-review-translation">완료</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Texte" xml:space="preserve">
+        <source>Texte</source>
+        <target state="needs-review-translation">텍스트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème" xml:space="preserve">
+        <source>Thème</source>
+        <target state="needs-review-translation">테마</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème personnalisé" xml:space="preserve">
+        <source>Thème personnalisé</source>
+        <target state="needs-review-translation">사용자 정의 테마</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre" xml:space="preserve">
+        <source>Titre</source>
+        <target state="needs-review-translation">제목</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 1" xml:space="preserve">
+        <source>Titre 1</source>
+        <target state="needs-review-translation">제목 1</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 2" xml:space="preserve">
+        <source>Titre 2</source>
+        <target state="needs-review-translation">제목 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 3" xml:space="preserve">
+        <source>Titre 3</source>
+        <target state="needs-review-translation">제목 3</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre souligné" xml:space="preserve">
+        <source>Titre souligné</source>
+        <target state="needs-review-translation">밑줄 제목</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres" xml:space="preserve">
+        <source>Titres</source>
+        <target state="needs-review-translation">제목</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres 4 à 6" xml:space="preserve">
+        <source>Titres 4 à 6</source>
+        <target state="needs-review-translation">제목 4~6</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Typographie" xml:space="preserve">
+        <source>Typographie</source>
+        <target state="needs-review-translation">타이포그래피</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tâches" xml:space="preserve">
+        <source>Tâches</source>
+        <target state="needs-review-translation">작업</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="US Letter" xml:space="preserve">
+        <source>US Letter</source>
+        <target state="needs-review-translation">US Letter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">``` 뒤에 알 수 없는 언어를 쓰면 구문 강조 없이 레이블이 있는 코드 블록이 됩니다.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Valeur" xml:space="preserve">
+        <source>Valeur</source>
+        <target state="needs-review-translation">값</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un fichier" xml:space="preserve">
+        <source>Vers un fichier</source>
+        <target state="needs-review-translation">파일로</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un titre" xml:space="preserve">
+        <source>Vers un titre</source>
+        <target state="needs-review-translation">제목으로</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="accès" xml:space="preserve">
+        <source>accès</source>
+        <target state="needs-review-translation">접근</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affiché tel quel, jamais interprété" xml:space="preserve">
+        <source>affiché tel quel, jamais interprété</source>
+        <target state="needs-review-translation">그대로 표시되며 해석되지 않음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme du texte ou du code" xml:space="preserve">
+        <source>affichés comme du texte ou du code</source>
+        <target state="needs-review-translation">텍스트 또는 코드로 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme une citation ordinaire" xml:space="preserve">
+        <source>affichés comme une citation ordinaire</source>
+        <target state="needs-review-translation">일반 인용으로 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arbres" xml:space="preserve">
+        <source>arbres</source>
+        <target state="needs-review-translation">나무</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arrivée" xml:space="preserve">
+        <source>arrivée</source>
+        <target state="needs-review-translation">도착</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="automatique ; les « » se tapent directement" xml:space="preserve">
+        <source>automatique ; les « » se tapent directement</source>
+        <target state="needs-review-translation">자동, 다른 따옴표는 직접 입력</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="baobab" xml:space="preserve">
+        <source>baobab</source>
+        <target state="needs-review-translation">바오밥</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="centre" xml:space="preserve">
+        <source>centre</source>
+        <target state="needs-review-translation">가운데</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="code" xml:space="preserve">
+        <source>code</source>
+        <target state="needs-review-translation">코드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="description" xml:space="preserve">
+        <source>description</source>
+        <target state="needs-review-translation">설명</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="docs/guide.md" xml:space="preserve">
+        <source>docs/guide.md</source>
+        <target state="needs-review-translation">docs/guide.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="droite" xml:space="preserve">
+        <source>droite</source>
+        <target state="needs-review-translation">오른쪽</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="départ" xml:space="preserve">
+        <source>départ</source>
+        <target state="needs-review-translation">출발</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="entre chevrons, sinon pas de lien" xml:space="preserve">
+        <source>entre chevrons, sinon pas de lien</source>
+        <target state="needs-review-translation">꺾쇠괄호로 감싸야 하며, 아니면 링크가 되지 않음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait" xml:space="preserve">
+        <source>fait</source>
+        <target state="needs-review-translation">완료</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait défiler jusqu'au titre" xml:space="preserve">
+        <source>fait défiler jusqu'au titre</source>
+        <target state="needs-review-translation">해당 제목으로 스크롤</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier local, chemin relatif ou absolu" xml:space="preserve">
+        <source>fichier local, chemin relatif ou absolu</source>
+        <target state="needs-review-translation">로컬 파일, 상대 또는 절대 경로</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier.md" xml:space="preserve">
+        <source>fichier.md</source>
+        <target state="needs-review-translation">file.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fin de ligne" xml:space="preserve">
+        <source>fin de ligne</source>
+        <target state="needs-review-translation">줄 끝</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gauche" xml:space="preserve">
+        <source>gauche</source>
+        <target state="needs-review-translation">왼쪽</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="image.png" xml:space="preserve">
+        <source>image.png</source>
+        <target state="needs-review-translation">image.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="images/plan.png" xml:space="preserve">
+        <source>images/plan.png</source>
+        <target state="needs-review-translation">images/map.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jusqu'à ######" xml:space="preserve">
+        <source>jusqu'à ######</source>
+        <target state="needs-review-translation">###### 까지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="langage" xml:space="preserve">
+        <source>langage</source>
+        <target state="needs-review-translation">언어</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lu en %@" xml:space="preserve">
+        <source>lu en %@</source>
+        <target state="needs-review-translation">%@(으)로 읽음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mise en forme possible dans les cellules" xml:space="preserve">
+        <source>mise en forme possible dans les cellules</source>
+        <target state="needs-review-translation">셀 안에서 서식 사용 가능</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="non reconnus" xml:space="preserve">
+        <source>non reconnus</source>
+        <target state="needs-review-translation">인식되지 않음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou *** et ___" xml:space="preserve">
+        <source>ou *** et ___</source>
+        <target state="needs-review-translation">또는 *** 및 ___</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou deux espaces en fin de ligne" xml:space="preserve">
+        <source>ou deux espaces en fin de ligne</source>
+        <target state="needs-review-translation">또는 줄 끝에 공백 두 칸</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou ~~~ à la place de ```" xml:space="preserve">
+        <source>ou ~~~ à la place de ```</source>
+        <target state="needs-review-translation">또는 ``` 대신 ~~~</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="oui" xml:space="preserve">
+        <source>oui</source>
+        <target state="needs-review-translation">예</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas d'italique" xml:space="preserve">
+        <source>pas d'italique</source>
+        <target state="needs-review-translation">기울임꼴 아님</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas de lien sans les chevrons &lt; &gt;" xml:space="preserve">
+        <source>pas de lien sans les chevrons &lt; &gt;</source>
+        <target state="needs-review-translation">꺾쇠괄호 &lt; &gt; 없이는 링크가 되지 않음</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas téléchargées : une icône et le texte alternatif" xml:space="preserve">
+        <source>pas téléchargées : une icône et le texte alternatif</source>
+        <target state="needs-review-translation">다운로드되지 않음: 아이콘과 대체 텍스트 표시</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="premier niveau" xml:space="preserve">
+        <source>premier niveau</source>
+        <target state="needs-review-translation">1단계</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="quatrième" xml:space="preserve">
+        <source>quatrième</source>
+        <target state="needs-review-translation">넷째</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="restent du texte" xml:space="preserve">
+        <source>restent du texte</source>
+        <target state="needs-review-translation">일반 텍스트로 유지</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="second" xml:space="preserve">
+        <source>second</source>
+        <target state="needs-review-translation">둘째</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="suite" xml:space="preserve">
+        <source>suite</source>
+        <target state="needs-review-translation">계속</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tamarinier" xml:space="preserve">
+        <source>tamarinier</source>
+        <target state="needs-review-translation">타마린드</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte" xml:space="preserve">
+        <source>texte</source>
+        <target state="needs-review-translation">텍스트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte brut" xml:space="preserve">
+        <source>texte brut</source>
+        <target state="needs-review-translation">일반 텍스트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte cité" xml:space="preserve">
+        <source>texte cité</source>
+        <target state="needs-review-translation">인용된 텍스트</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="titre" xml:space="preserve">
+        <source>titre</source>
+        <target state="needs-review-translation">제목</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="troisième" xml:space="preserve">
+        <source>troisième</source>
+        <target state="needs-review-translation">셋째</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="À puces" xml:space="preserve">
+        <source>À puces</source>
+        <target state="needs-review-translation">글머리 기호 목록</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Échappement" xml:space="preserve">
+        <source>Échappement</source>
+        <target state="needs-review-translation">이스케이프</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="à faire" xml:space="preserve">
+        <source>à faire</source>
+        <target state="needs-review-translation">할 일</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="élément" xml:space="preserve">
+        <source>élément</source>
+        <target state="needs-review-translation">항목</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Viewer/Localizable.xcstrings" source-language="fr" target-language="id" datatype="plaintext">
+    <body>
+      <trans-unit id="%lld car." xml:space="preserve">
+        <source>%lld car.</source>
+        <target state="needs-review-translation">%lld karakter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld langages colorés" xml:space="preserve">
+        <source>%lld langages colorés</source>
+        <target state="needs-review-translation">%lld bahasa berwarna</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld min de lecture" xml:space="preserve">
+        <source>%lld min de lecture</source>
+        <target state="needs-review-translation">%lld mnt baca</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld mots|==|plural.other" xml:space="preserve">
+        <source>%lld mots</source>
+        <target state="needs-review-translation">%lld kata</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld pt" xml:space="preserve">
+        <source>%lld pt</source>
+        <target state="needs-review-translation">%lld pt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="(clé « %@ »)" xml:space="preserve">
+        <source>(clé « %@ »)</source>
+        <target state="needs-review-translation">(kunci “%@”)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="--- pour un titre 2" xml:space="preserve">
+        <source>--- pour un titre 2</source>
+        <target state="needs-review-translation">--- untuk judul tingkat 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="4 espaces, sans coloration" xml:space="preserve">
+        <source>4 espaces, sans coloration</source>
+        <target state="needs-review-translation">4 spasi, tanpa pewarnaan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A4" xml:space="preserve">
+        <source>A4</source>
+        <target state="needs-review-translation">A4</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Accès" xml:space="preserve">
+        <source>Accès</source>
+        <target state="needs-review-translation">Akses</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Activé" xml:space="preserve">
+        <source>Activé</source>
+        <target state="needs-review-translation">Aktif</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresse" xml:space="preserve">
+        <source>Adresse</source>
+        <target state="needs-review-translation">Alamat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresses nues" xml:space="preserve">
+        <source>Adresses nues</source>
+        <target state="needs-review-translation">Alamat polos</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher dans le Finder" xml:space="preserve">
+        <source>Afficher dans le Finder</source>
+        <target state="needs-review-translation">Tampilkan di Finder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher le sommaire à partir de 4 titres" xml:space="preserve">
+        <source>Afficher le sommaire à partir de 4 titres</source>
+        <target state="needs-review-translation">Tampilkan daftar isi untuk dokumen dengan 4 judul atau lebih</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher ou masquer le sommaire" xml:space="preserve">
+        <source>Afficher ou masquer le sommaire</source>
+        <target state="needs-review-translation">Tampilkan atau sembunyikan daftar isi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Agrandir le texte" xml:space="preserve">
+        <source>Agrandir le texte</source>
+        <target state="needs-review-translation">Perbesar Teks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aide-mémoire Markdown" xml:space="preserve">
+        <source>Aide-mémoire Markdown</source>
+        <target state="needs-review-translation">Lembar Contekan Markdown</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alignement" xml:space="preserve">
+        <source>Alignement</source>
+        <target state="needs-review-translation">Perataan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apparence" xml:space="preserve">
+        <source>Apparence</source>
+        <target state="needs-review-translation">Tampilan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun résultat" xml:space="preserve">
+        <source>Aucun résultat</source>
+        <target state="needs-review-translation">Tidak ada hasil</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun titre" xml:space="preserve">
+        <source>Aucun titre</source>
+        <target state="needs-review-translation">Tidak Ada Judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aussi : %@" xml:space="preserve">
+        <source>Aussi : %@</source>
+        <target state="needs-review-translation">Juga: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto" xml:space="preserve">
+        <source>Auto</source>
+        <target state="needs-review-translation">Otomatis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Barré" xml:space="preserve">
+        <source>Barré</source>
+        <target state="needs-review-translation">Coret</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bloc de code" xml:space="preserve">
+        <source>Bloc de code</source>
+        <target state="needs-review-translation">Blok kode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce document n'a pas de titres." xml:space="preserve">
+        <source>Ce document n'a pas de titres.</source>
+        <target state="needs-review-translation">Dokumen ini tidak memiliki judul.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">File ini berisi teks yang bukan Markdown. Kayakoma Viewer membaca file Markdown (.md, .markdown) dan teks biasa.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">File ini bukan teks. Kayakoma Viewer membaca file Markdown (.md, .markdown) dan teks biasa.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choisissez un fichier de thème JSON." xml:space="preserve">
+        <source>Choisissez un fichier de thème JSON.</source>
+        <target state="needs-review-translation">Pilih file tema JSON.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citation" xml:space="preserve">
+        <source>Citation</source>
+        <target state="needs-review-translation">Kutipan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citations et séparateurs" xml:space="preserve">
+        <source>Citations et séparateurs</source>
+        <target state="needs-review-translation">Kutipan dan pemisah</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clair" xml:space="preserve">
+        <source>Clair</source>
+        <target state="needs-review-translation">Terang</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <target state="needs-review-translation">Kode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code en ligne" xml:space="preserve">
+        <source>Code en ligne</source>
+        <target state="needs-review-translation">Kode sebaris</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Colonne" xml:space="preserve">
+        <source>Colonne</source>
+        <target state="needs-review-translation">Kolom</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copier" xml:space="preserve">
+        <source>Copier</source>
+        <target state="needs-review-translation">Salin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copié dans le presse-papiers" xml:space="preserve">
+        <source>Copié dans le presse-papiers</source>
+        <target state="needs-review-translation">Disalin ke papan klip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dossier des thèmes" xml:space="preserve">
+        <source>Dossier des thèmes</source>
+        <target state="needs-review-translation">Folder Tema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Double-clic : copier la syntaxe" xml:space="preserve">
+        <source>Double-clic : copier la syntaxe</source>
+        <target state="needs-review-translation">Klik dua kali: salin sintaksis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Départ choisi" xml:space="preserve">
+        <source>Départ choisi</source>
+        <target state="needs-review-translation">Awal yang dipilih</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Désactivé" xml:space="preserve">
+        <source>Désactivé</source>
+        <target state="needs-review-translation">Nonaktif</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Effacer la recherche" xml:space="preserve">
+        <source>Effacer la recherche</source>
+        <target state="needs-review-translation">Hapus pencarian</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Encadrés" xml:space="preserve">
+        <source>Encadrés</source>
+        <target state="needs-review-translation">Kotak informasi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF" xml:space="preserve">
+        <source>Exporter en PDF</source>
+        <target state="needs-review-translation">Ekspor sebagai PDF</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF…" xml:space="preserve">
+        <source>Exporter en PDF…</source>
+        <target state="needs-review-translation">Ekspor sebagai PDF…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fermer" xml:space="preserve">
+        <source>Fermer</source>
+        <target state="needs-review-translation">Tutup</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fichier JSON partiel, complété par le thème par défaut" xml:space="preserve">
+        <source>Fichier JSON partiel, complété par le thème par défaut</source>
+        <target state="needs-review-translation">File JSON parsial, dilengkapi dengan tema default</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Format du papier :" xml:space="preserve">
+        <source>Format du papier :</source>
+        <target state="needs-review-translation">Ukuran kertas:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Formules et diagrammes" xml:space="preserve">
+        <source>Formules et diagrammes</source>
+        <target state="needs-review-translation">Rumus dan diagram</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras" xml:space="preserve">
+        <source>Gras</source>
+        <target state="needs-review-translation">Tebal</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras italique" xml:space="preserve">
+        <source>Gras italique</source>
+        <target state="needs-review-translation">Tebal miring</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guide" xml:space="preserve">
+        <source>Guide</source>
+        <target state="needs-review-translation">Panduan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Général" xml:space="preserve">
+        <source>Général</source>
+        <target state="needs-review-translation">Umum</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTML" xml:space="preserve">
+        <source>HTML</source>
+        <target state="needs-review-translation">HTML</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image" xml:space="preserve">
+        <source>Image</source>
+        <target state="needs-review-translation">Gambar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Images distantes" xml:space="preserve">
+        <source>Images distantes</source>
+        <target state="needs-review-translation">Gambar jarak jauh</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Imbriquée" xml:space="preserve">
+        <source>Imbriquée</source>
+        <target state="needs-review-translation">Bersarang</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Impossible d'afficher « %@ »" xml:space="preserve">
+        <source>Impossible d'afficher « %@ »</source>
+        <target state="needs-review-translation">Tidak Dapat Menampilkan “%@”</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indenté" xml:space="preserve">
+        <source>Indenté</source>
+        <target state="needs-review-translation">Menjorok</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Italique" xml:space="preserve">
+        <source>Italique</source>
+        <target state="needs-review-translation">Miring</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Km" xml:space="preserve">
+        <source>Km</source>
+        <target state="needs-review-translation">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Langage inconnu : bloc avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">Bahasa tidak dikenal: blok dengan labelnya, tanpa pewarnaan.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Largeur maximale de ligne" xml:space="preserve">
+        <source>Largeur maximale de ligne</source>
+        <target state="needs-review-translation">Lebar baris maksimum</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Le thème « %@ » n'a pas pu être chargé." xml:space="preserve">
+        <source>Le thème « %@ » n'a pas pu être chargé.</source>
+        <target state="needs-review-translation">Tema “%@” tidak dapat dimuat.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien" xml:space="preserve">
+        <source>Lien</source>
+        <target state="needs-review-translation">Tautan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien de référence" xml:space="preserve">
+        <source>Lien de référence</source>
+        <target state="needs-review-translation">Tautan referensi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Liens et images" xml:space="preserve">
+        <source>Liens et images</source>
+        <target state="needs-review-translation">Tautan dan gambar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lieu" xml:space="preserve">
+        <source>Lieu</source>
+        <target state="needs-review-translation">Tempat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes" xml:space="preserve">
+        <source>Listes</source>
+        <target state="needs-review-translation">Daftar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes de définitions, identifiants de titre, fusion de cellules" xml:space="preserve">
+        <source>Listes de définitions, identifiants de titre, fusion de cellules</source>
+        <target state="needs-review-translation">Daftar definisi, ID judul, penggabungan sel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="needs-review-translation">Mode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier" xml:space="preserve">
+        <source>Modifier</source>
+        <target state="needs-review-translation">Edit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier dans Kayakoma Editor (⌘E)" xml:space="preserve">
+        <source>Modifier dans Kayakoma Editor (⌘E)</source>
+        <target state="needs-review-translation">Edit di Kayakoma Editor (⌘E)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Non pris en charge" xml:space="preserve">
+        <source>Non pris en charge</source>
+        <target state="needs-review-translation">Tidak didukung</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notes de bas de page" xml:space="preserve">
+        <source>Notes de bas de page</source>
+        <target state="needs-review-translation">Catatan kaki</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numérotée" xml:space="preserve">
+        <source>Numérotée</source>
+        <target state="needs-review-translation">Bernomor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir dans l'Éditeur" xml:space="preserve">
+        <source>Ouvrir dans l'Éditeur</source>
+        <target state="needs-review-translation">Buka di Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir le dossier des thèmes" xml:space="preserve">
+        <source>Ouvrir le dossier des thèmes</source>
+        <target state="needs-review-translation">Buka Folder Tema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir les fenêtres en grand" xml:space="preserve">
+        <source>Ouvrir les fenêtres en grand</source>
+        <target state="needs-review-translation">Buka jendela dalam ukuran penuh</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un autre fichier…" xml:space="preserve">
+        <source>Ouvrir un autre fichier…</source>
+        <target state="needs-review-translation">Buka File Lain…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un fichier de thème…" xml:space="preserve">
+        <source>Ouvrir un fichier de thème…</source>
+        <target state="needs-review-translation">Buka File Tema…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir…" xml:space="preserve">
+        <source>Ouvrir…</source>
+        <target state="needs-review-translation">Buka…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Papier" xml:space="preserve">
+        <source>Papier</source>
+        <target state="needs-review-translation">Kertas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Par défaut" xml:space="preserve">
+        <source>Par défaut</source>
+        <target state="needs-review-translation">Default</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager" xml:space="preserve">
+        <source>Partager</source>
+        <target state="needs-review-translation">Bagikan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager ou exporter en PDF" xml:space="preserve">
+        <source>Partager ou exporter en PDF</source>
+        <target state="needs-review-translation">Bagikan atau ekspor sebagai PDF</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager…" xml:space="preserve">
+        <source>Partager…</source>
+        <target state="needs-review-translation">Bagikan…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Plan" xml:space="preserve">
+        <source>Plan</source>
+        <target state="needs-review-translation">Peta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ponton" xml:space="preserve">
+        <source>Ponton</source>
+        <target state="needs-review-translation">Dermaga</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recharger quand le fichier change sur le disque" xml:space="preserve">
+        <source>Recharger quand le fichier change sur le disque</source>
+        <target state="needs-review-translation">Muat ulang saat file berubah di disk</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher" xml:space="preserve">
+        <source>Rechercher</source>
+        <target state="needs-review-translation">Cari</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher dans l'aide-mémoire" xml:space="preserve">
+        <source>Rechercher dans l'aide-mémoire</source>
+        <target state="needs-review-translation">Cari di lembar contekan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réduire le texte" xml:space="preserve">
+        <source>Réduire le texte</source>
+        <target state="needs-review-translation">Perkecil Teks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réglages de lecture" xml:space="preserve">
+        <source>Réglages de lecture</source>
+        <target state="needs-review-translation">Opsi Membaca</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans langage" xml:space="preserve">
+        <source>Sans langage</source>
+        <target state="needs-review-translation">Tanpa bahasa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans titre" xml:space="preserve">
+        <source>Sans titre</source>
+        <target state="needs-review-translation">Tanpa Judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saut de ligne" xml:space="preserve">
+        <source>Saut de ligne</source>
+        <target state="needs-review-translation">Jeda baris</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sombre" xml:space="preserve">
+        <source>Sombre</source>
+        <target state="needs-review-translation">Gelap</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sommaire" xml:space="preserve">
+        <source>Sommaire</source>
+        <target state="needs-review-translation">Daftar Isi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Surlignage, indice, exposant, emoji" xml:space="preserve">
+        <source>Surlignage, indice, exposant, emoji</source>
+        <target state="needs-review-translation">Sorotan, subskrip, superskrip, emoji</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Séparateur" xml:space="preserve">
+        <source>Séparateur</source>
+        <target state="needs-review-translation">Pemisah</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableau" xml:space="preserve">
+        <source>Tableau</source>
+        <target state="needs-review-translation">Tabel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableaux" xml:space="preserve">
+        <source>Tableaux</source>
+        <target state="needs-review-translation">Tabel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille" xml:space="preserve">
+        <source>Taille</source>
+        <target state="needs-review-translation">Ukuran</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte" xml:space="preserve">
+        <source>Taille du texte</source>
+        <target state="needs-review-translation">Ukuran teks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte, thème et apparence" xml:space="preserve">
+        <source>Taille du texte, thème et apparence</source>
+        <target state="needs-review-translation">Ukuran teks, tema, dan tampilan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille par défaut" xml:space="preserve">
+        <source>Taille par défaut</source>
+        <target state="needs-review-translation">Ukuran Default</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terminé" xml:space="preserve">
+        <source>Terminé</source>
+        <target state="needs-review-translation">Selesai</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Texte" xml:space="preserve">
+        <source>Texte</source>
+        <target state="needs-review-translation">Teks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème" xml:space="preserve">
+        <source>Thème</source>
+        <target state="needs-review-translation">Tema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème personnalisé" xml:space="preserve">
+        <source>Thème personnalisé</source>
+        <target state="needs-review-translation">Tema kustom</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre" xml:space="preserve">
+        <source>Titre</source>
+        <target state="needs-review-translation">Judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 1" xml:space="preserve">
+        <source>Titre 1</source>
+        <target state="needs-review-translation">Judul 1</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 2" xml:space="preserve">
+        <source>Titre 2</source>
+        <target state="needs-review-translation">Judul 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 3" xml:space="preserve">
+        <source>Titre 3</source>
+        <target state="needs-review-translation">Judul 3</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre souligné" xml:space="preserve">
+        <source>Titre souligné</source>
+        <target state="needs-review-translation">Judul bergaris bawah</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres" xml:space="preserve">
+        <source>Titres</source>
+        <target state="needs-review-translation">Judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres 4 à 6" xml:space="preserve">
+        <source>Titres 4 à 6</source>
+        <target state="needs-review-translation">Judul 4 sampai 6</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Typographie" xml:space="preserve">
+        <source>Typographie</source>
+        <target state="needs-review-translation">Tipografi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tâches" xml:space="preserve">
+        <source>Tâches</source>
+        <target state="needs-review-translation">Tugas</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="US Letter" xml:space="preserve">
+        <source>US Letter</source>
+        <target state="needs-review-translation">US Letter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">Bahasa tidak dikenal setelah ``` menghasilkan blok kode dengan labelnya, tanpa pewarnaan.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Valeur" xml:space="preserve">
+        <source>Valeur</source>
+        <target state="needs-review-translation">Nilai</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un fichier" xml:space="preserve">
+        <source>Vers un fichier</source>
+        <target state="needs-review-translation">Ke sebuah file</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un titre" xml:space="preserve">
+        <source>Vers un titre</source>
+        <target state="needs-review-translation">Ke sebuah judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="accès" xml:space="preserve">
+        <source>accès</source>
+        <target state="needs-review-translation">akses</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affiché tel quel, jamais interprété" xml:space="preserve">
+        <source>affiché tel quel, jamais interprété</source>
+        <target state="needs-review-translation">ditampilkan apa adanya, tidak pernah diinterpretasikan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme du texte ou du code" xml:space="preserve">
+        <source>affichés comme du texte ou du code</source>
+        <target state="needs-review-translation">ditampilkan sebagai teks atau kode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme une citation ordinaire" xml:space="preserve">
+        <source>affichés comme une citation ordinaire</source>
+        <target state="needs-review-translation">ditampilkan sebagai kutipan biasa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arbres" xml:space="preserve">
+        <source>arbres</source>
+        <target state="needs-review-translation">pohon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arrivée" xml:space="preserve">
+        <source>arrivée</source>
+        <target state="needs-review-translation">finis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="automatique ; les « » se tapent directement" xml:space="preserve">
+        <source>automatique ; les « » se tapent directement</source>
+        <target state="needs-review-translation">otomatis; ketik tanda kutip lain secara langsung</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="baobab" xml:space="preserve">
+        <source>baobab</source>
+        <target state="needs-review-translation">baobab</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="centre" xml:space="preserve">
+        <source>centre</source>
+        <target state="needs-review-translation">tengah</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="code" xml:space="preserve">
+        <source>code</source>
+        <target state="needs-review-translation">kode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="description" xml:space="preserve">
+        <source>description</source>
+        <target state="needs-review-translation">deskripsi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="docs/guide.md" xml:space="preserve">
+        <source>docs/guide.md</source>
+        <target state="needs-review-translation">docs/guide.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="droite" xml:space="preserve">
+        <source>droite</source>
+        <target state="needs-review-translation">kanan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="départ" xml:space="preserve">
+        <source>départ</source>
+        <target state="needs-review-translation">mulai</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="entre chevrons, sinon pas de lien" xml:space="preserve">
+        <source>entre chevrons, sinon pas de lien</source>
+        <target state="needs-review-translation">dalam tanda kurung sudut, jika tidak bukan tautan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait" xml:space="preserve">
+        <source>fait</source>
+        <target state="needs-review-translation">selesai</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait défiler jusqu'au titre" xml:space="preserve">
+        <source>fait défiler jusqu'au titre</source>
+        <target state="needs-review-translation">menggulir ke judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier local, chemin relatif ou absolu" xml:space="preserve">
+        <source>fichier local, chemin relatif ou absolu</source>
+        <target state="needs-review-translation">file lokal, path relatif atau absolut</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier.md" xml:space="preserve">
+        <source>fichier.md</source>
+        <target state="needs-review-translation">fichier.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fin de ligne" xml:space="preserve">
+        <source>fin de ligne</source>
+        <target state="needs-review-translation">akhir baris</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gauche" xml:space="preserve">
+        <source>gauche</source>
+        <target state="needs-review-translation">kiri</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="image.png" xml:space="preserve">
+        <source>image.png</source>
+        <target state="needs-review-translation">image.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="images/plan.png" xml:space="preserve">
+        <source>images/plan.png</source>
+        <target state="needs-review-translation">images/plan.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jusqu'à ######" xml:space="preserve">
+        <source>jusqu'à ######</source>
+        <target state="needs-review-translation">hingga ######</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="langage" xml:space="preserve">
+        <source>langage</source>
+        <target state="needs-review-translation">bahasa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lu en %@" xml:space="preserve">
+        <source>lu en %@</source>
+        <target state="needs-review-translation">dibaca sebagai %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mise en forme possible dans les cellules" xml:space="preserve">
+        <source>mise en forme possible dans les cellules</source>
+        <target state="needs-review-translation">pemformatan dapat digunakan di dalam sel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="non reconnus" xml:space="preserve">
+        <source>non reconnus</source>
+        <target state="needs-review-translation">tidak dikenali</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou *** et ___" xml:space="preserve">
+        <source>ou *** et ___</source>
+        <target state="needs-review-translation">atau *** dan ___</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou deux espaces en fin de ligne" xml:space="preserve">
+        <source>ou deux espaces en fin de ligne</source>
+        <target state="needs-review-translation">atau dua spasi di akhir baris</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou ~~~ à la place de ```" xml:space="preserve">
+        <source>ou ~~~ à la place de ```</source>
+        <target state="needs-review-translation">atau ~~~ sebagai pengganti ```</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="oui" xml:space="preserve">
+        <source>oui</source>
+        <target state="needs-review-translation">ya</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas d'italique" xml:space="preserve">
+        <source>pas d'italique</source>
+        <target state="needs-review-translation">tidak miring</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas de lien sans les chevrons &lt; &gt;" xml:space="preserve">
+        <source>pas de lien sans les chevrons &lt; &gt;</source>
+        <target state="needs-review-translation">tidak ada tautan tanpa tanda kurung sudut &lt; &gt;</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas téléchargées : une icône et le texte alternatif" xml:space="preserve">
+        <source>pas téléchargées : une icône et le texte alternatif</source>
+        <target state="needs-review-translation">tidak diunduh: ikon dan teks alternatif</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="premier niveau" xml:space="preserve">
+        <source>premier niveau</source>
+        <target state="needs-review-translation">tingkat pertama</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="quatrième" xml:space="preserve">
+        <source>quatrième</source>
+        <target state="needs-review-translation">keempat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="restent du texte" xml:space="preserve">
+        <source>restent du texte</source>
+        <target state="needs-review-translation">tetap berupa teks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="second" xml:space="preserve">
+        <source>second</source>
+        <target state="needs-review-translation">kedua</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="suite" xml:space="preserve">
+        <source>suite</source>
+        <target state="needs-review-translation">lanjutan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tamarinier" xml:space="preserve">
+        <source>tamarinier</source>
+        <target state="needs-review-translation">asam jawa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte" xml:space="preserve">
+        <source>texte</source>
+        <target state="needs-review-translation">teks</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte brut" xml:space="preserve">
+        <source>texte brut</source>
+        <target state="needs-review-translation">teks biasa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte cité" xml:space="preserve">
+        <source>texte cité</source>
+        <target state="needs-review-translation">teks yang dikutip</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="titre" xml:space="preserve">
+        <source>titre</source>
+        <target state="needs-review-translation">judul</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="troisième" xml:space="preserve">
+        <source>troisième</source>
+        <target state="needs-review-translation">ketiga</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="À puces" xml:space="preserve">
+        <source>À puces</source>
+        <target state="needs-review-translation">Berpoin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Échappement" xml:space="preserve">
+        <source>Échappement</source>
+        <target state="needs-review-translation">Escape</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="à faire" xml:space="preserve">
+        <source>à faire</source>
+        <target state="needs-review-translation">perlu dikerjakan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="élément" xml:space="preserve">
+        <source>élément</source>
+        <target state="needs-review-translation">item</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

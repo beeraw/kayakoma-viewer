@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="Viewer/Localizable.xcstrings" source-language="fr" target-language="tr" datatype="plaintext">
+    <body>
+      <trans-unit id="%lld car." xml:space="preserve">
+        <source>%lld car.</source>
+        <target state="needs-review-translation">%lld karakter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld langages colorés" xml:space="preserve">
+        <source>%lld langages colorés</source>
+        <target state="needs-review-translation">%lld renklendirilmiş dil</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld min de lecture" xml:space="preserve">
+        <source>%lld min de lecture</source>
+        <target state="needs-review-translation">%lld dk okuma</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld mots|==|plural.one" xml:space="preserve">
+        <source>%lld mot</source>
+        <target state="needs-review-translation">%lld kelime</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld mots|==|plural.other" xml:space="preserve">
+        <source>%lld mots</source>
+        <target state="needs-review-translation">%lld kelime</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld pt" xml:space="preserve">
+        <source>%lld pt</source>
+        <target state="needs-review-translation">%lld pt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="(clé « %@ »)" xml:space="preserve">
+        <source>(clé « %@ »)</source>
+        <target state="needs-review-translation">(anahtar “%@”)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="--- pour un titre 2" xml:space="preserve">
+        <source>--- pour un titre 2</source>
+        <target state="needs-review-translation">--- 2. düzey başlık için</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="4 espaces, sans coloration" xml:space="preserve">
+        <source>4 espaces, sans coloration</source>
+        <target state="needs-review-translation">4 boşluk, renklendirme yok</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A4" xml:space="preserve">
+        <source>A4</source>
+        <target state="needs-review-translation">A4</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Accès" xml:space="preserve">
+        <source>Accès</source>
+        <target state="needs-review-translation">Erişim</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Activé" xml:space="preserve">
+        <source>Activé</source>
+        <target state="needs-review-translation">Açık</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresse" xml:space="preserve">
+        <source>Adresse</source>
+        <target state="needs-review-translation">Adres</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Adresses nues" xml:space="preserve">
+        <source>Adresses nues</source>
+        <target state="needs-review-translation">Yalın adresler</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher dans le Finder" xml:space="preserve">
+        <source>Afficher dans le Finder</source>
+        <target state="needs-review-translation">Finder'da Göster</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher le sommaire à partir de 4 titres" xml:space="preserve">
+        <source>Afficher le sommaire à partir de 4 titres</source>
+        <target state="needs-review-translation">4 veya daha fazla başlığı olan belgelerde içindekileri göster</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Afficher ou masquer le sommaire" xml:space="preserve">
+        <source>Afficher ou masquer le sommaire</source>
+        <target state="needs-review-translation">İçindekileri göster veya gizle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Agrandir le texte" xml:space="preserve">
+        <source>Agrandir le texte</source>
+        <target state="needs-review-translation">Metni Büyüt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aide-mémoire Markdown" xml:space="preserve">
+        <source>Aide-mémoire Markdown</source>
+        <target state="needs-review-translation">Markdown Özet Kılavuzu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Alignement" xml:space="preserve">
+        <source>Alignement</source>
+        <target state="needs-review-translation">Hizalama</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Apparence" xml:space="preserve">
+        <source>Apparence</source>
+        <target state="needs-review-translation">Görünüm</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun résultat" xml:space="preserve">
+        <source>Aucun résultat</source>
+        <target state="needs-review-translation">Sonuç yok</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aucun titre" xml:space="preserve">
+        <source>Aucun titre</source>
+        <target state="needs-review-translation">Başlık Yok</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Aussi : %@" xml:space="preserve">
+        <source>Aussi : %@</source>
+        <target state="needs-review-translation">Ayrıca: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto" xml:space="preserve">
+        <source>Auto</source>
+        <target state="needs-review-translation">Otomatik</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Barré" xml:space="preserve">
+        <source>Barré</source>
+        <target state="needs-review-translation">Üstü çizili</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bloc de code" xml:space="preserve">
+        <source>Bloc de code</source>
+        <target state="needs-review-translation">Kod bloğu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce document n'a pas de titres." xml:space="preserve">
+        <source>Ce document n'a pas de titres.</source>
+        <target state="needs-review-translation">Bu belgede başlık yok.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier contient du texte qui n'est pas du Markdown. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">Bu dosya Markdown olmayan metin içeriyor. Kayakoma Viewer, Markdown dosyalarını (.md, .markdown) ve düz metni okur.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut." xml:space="preserve">
+        <source>Ce fichier n'est pas du texte. Kayakoma Viewer lit les fichiers Markdown (.md, .markdown) et le texte brut.</source>
+        <target state="needs-review-translation">Bu dosya metin değil. Kayakoma Viewer, Markdown dosyalarını (.md, .markdown) ve düz metni okur.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choisissez un fichier de thème JSON." xml:space="preserve">
+        <source>Choisissez un fichier de thème JSON.</source>
+        <target state="needs-review-translation">Bir JSON tema dosyası seçin.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citation" xml:space="preserve">
+        <source>Citation</source>
+        <target state="needs-review-translation">Alıntı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Citations et séparateurs" xml:space="preserve">
+        <source>Citations et séparateurs</source>
+        <target state="needs-review-translation">Alıntılar ve ayırıcılar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Clair" xml:space="preserve">
+        <source>Clair</source>
+        <target state="needs-review-translation">Açık</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code" xml:space="preserve">
+        <source>Code</source>
+        <target state="needs-review-translation">Kod</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Code en ligne" xml:space="preserve">
+        <source>Code en ligne</source>
+        <target state="needs-review-translation">Satır içi kod</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Colonne" xml:space="preserve">
+        <source>Colonne</source>
+        <target state="needs-review-translation">Sütun</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copier" xml:space="preserve">
+        <source>Copier</source>
+        <target state="needs-review-translation">Kopyala</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copié dans le presse-papiers" xml:space="preserve">
+        <source>Copié dans le presse-papiers</source>
+        <target state="needs-review-translation">Panoya kopyalandı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dossier des thèmes" xml:space="preserve">
+        <source>Dossier des thèmes</source>
+        <target state="needs-review-translation">Temalar Klasörü</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Double-clic : copier la syntaxe" xml:space="preserve">
+        <source>Double-clic : copier la syntaxe</source>
+        <target state="needs-review-translation">Çift tıklama: sözdizimini kopyala</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Départ choisi" xml:space="preserve">
+        <source>Départ choisi</source>
+        <target state="needs-review-translation">Seçilen başlangıç</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Désactivé" xml:space="preserve">
+        <source>Désactivé</source>
+        <target state="needs-review-translation">Kapalı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Effacer la recherche" xml:space="preserve">
+        <source>Effacer la recherche</source>
+        <target state="needs-review-translation">Aramayı temizle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Encadrés" xml:space="preserve">
+        <source>Encadrés</source>
+        <target state="needs-review-translation">Bilgi kutuları</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF" xml:space="preserve">
+        <source>Exporter en PDF</source>
+        <target state="needs-review-translation">PDF Olarak Dışa Aktar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exporter en PDF…" xml:space="preserve">
+        <source>Exporter en PDF…</source>
+        <target state="needs-review-translation">PDF Olarak Dışa Aktar…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fermer" xml:space="preserve">
+        <source>Fermer</source>
+        <target state="needs-review-translation">Kapat</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fichier JSON partiel, complété par le thème par défaut" xml:space="preserve">
+        <source>Fichier JSON partiel, complété par le thème par défaut</source>
+        <target state="needs-review-translation">Kısmi JSON dosyası, varsayılan temayla tamamlanır</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Format du papier :" xml:space="preserve">
+        <source>Format du papier :</source>
+        <target state="needs-review-translation">Kâğıt boyutu:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Formules et diagrammes" xml:space="preserve">
+        <source>Formules et diagrammes</source>
+        <target state="needs-review-translation">Formüller ve diyagramlar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras" xml:space="preserve">
+        <source>Gras</source>
+        <target state="needs-review-translation">Kalın</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gras italique" xml:space="preserve">
+        <source>Gras italique</source>
+        <target state="needs-review-translation">Kalın italik</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Guide" xml:space="preserve">
+        <source>Guide</source>
+        <target state="needs-review-translation">Kılavuz</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Général" xml:space="preserve">
+        <source>Général</source>
+        <target state="needs-review-translation">Genel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HTML" xml:space="preserve">
+        <source>HTML</source>
+        <target state="needs-review-translation">HTML</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image" xml:space="preserve">
+        <source>Image</source>
+        <target state="needs-review-translation">Görsel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Images distantes" xml:space="preserve">
+        <source>Images distantes</source>
+        <target state="needs-review-translation">Uzak görseller</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Imbriquée" xml:space="preserve">
+        <source>Imbriquée</source>
+        <target state="needs-review-translation">İç içe</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Impossible d'afficher « %@ »" xml:space="preserve">
+        <source>Impossible d'afficher « %@ »</source>
+        <target state="needs-review-translation">“%@” Görüntülenemiyor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Indenté" xml:space="preserve">
+        <source>Indenté</source>
+        <target state="needs-review-translation">Girintili</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Italique" xml:space="preserve">
+        <source>Italique</source>
+        <target state="needs-review-translation">İtalik</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Km" xml:space="preserve">
+        <source>Km</source>
+        <target state="needs-review-translation">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Langage inconnu : bloc avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">Bilinmeyen dil: etiketiyle birlikte bir blok, renklendirme yok.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Largeur maximale de ligne" xml:space="preserve">
+        <source>Largeur maximale de ligne</source>
+        <target state="needs-review-translation">Maksimum satır genişliği</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Le thème « %@ » n'a pas pu être chargé." xml:space="preserve">
+        <source>Le thème « %@ » n'a pas pu être chargé.</source>
+        <target state="needs-review-translation">“%@” teması yüklenemedi.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien" xml:space="preserve">
+        <source>Lien</source>
+        <target state="needs-review-translation">Bağlantı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lien de référence" xml:space="preserve">
+        <source>Lien de référence</source>
+        <target state="needs-review-translation">Referans bağlantısı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Liens et images" xml:space="preserve">
+        <source>Liens et images</source>
+        <target state="needs-review-translation">Bağlantılar ve görseller</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lieu" xml:space="preserve">
+        <source>Lieu</source>
+        <target state="needs-review-translation">Yer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes" xml:space="preserve">
+        <source>Listes</source>
+        <target state="needs-review-translation">Listeler</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Listes de définitions, identifiants de titre, fusion de cellules" xml:space="preserve">
+        <source>Listes de définitions, identifiants de titre, fusion de cellules</source>
+        <target state="needs-review-translation">Tanım listeleri, başlık kimlikleri, hücre birleştirme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mode" xml:space="preserve">
+        <source>Mode</source>
+        <target state="needs-review-translation">Mod</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier" xml:space="preserve">
+        <source>Modifier</source>
+        <target state="needs-review-translation">Düzenle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Modifier dans Kayakoma Editor (⌘E)" xml:space="preserve">
+        <source>Modifier dans Kayakoma Editor (⌘E)</source>
+        <target state="needs-review-translation">Kayakoma Editor'de düzenle (⌘E)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Non pris en charge" xml:space="preserve">
+        <source>Non pris en charge</source>
+        <target state="needs-review-translation">Desteklenmiyor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Notes de bas de page" xml:space="preserve">
+        <source>Notes de bas de page</source>
+        <target state="needs-review-translation">Dipnotlar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Numérotée" xml:space="preserve">
+        <source>Numérotée</source>
+        <target state="needs-review-translation">Numaralı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir dans l'Éditeur" xml:space="preserve">
+        <source>Ouvrir dans l'Éditeur</source>
+        <target state="needs-review-translation">Editor'de Aç</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir le dossier des thèmes" xml:space="preserve">
+        <source>Ouvrir le dossier des thèmes</source>
+        <target state="needs-review-translation">Temalar Klasörünü Aç</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir les fenêtres en grand" xml:space="preserve">
+        <source>Ouvrir les fenêtres en grand</source>
+        <target state="needs-review-translation">Pencereleri büyük aç</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un autre fichier…" xml:space="preserve">
+        <source>Ouvrir un autre fichier…</source>
+        <target state="needs-review-translation">Başka Bir Dosya Aç…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir un fichier de thème…" xml:space="preserve">
+        <source>Ouvrir un fichier de thème…</source>
+        <target state="needs-review-translation">Tema Dosyası Aç…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ouvrir…" xml:space="preserve">
+        <source>Ouvrir…</source>
+        <target state="needs-review-translation">Aç…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Papier" xml:space="preserve">
+        <source>Papier</source>
+        <target state="needs-review-translation">Kâğıt</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Par défaut" xml:space="preserve">
+        <source>Par défaut</source>
+        <target state="needs-review-translation">Varsayılan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager" xml:space="preserve">
+        <source>Partager</source>
+        <target state="needs-review-translation">Paylaş</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager ou exporter en PDF" xml:space="preserve">
+        <source>Partager ou exporter en PDF</source>
+        <target state="needs-review-translation">Paylaş veya PDF olarak dışa aktar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Partager…" xml:space="preserve">
+        <source>Partager…</source>
+        <target state="needs-review-translation">Paylaş…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Plan" xml:space="preserve">
+        <source>Plan</source>
+        <target state="needs-review-translation">Harita</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ponton" xml:space="preserve">
+        <source>Ponton</source>
+        <target state="needs-review-translation">İskele</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recharger quand le fichier change sur le disque" xml:space="preserve">
+        <source>Recharger quand le fichier change sur le disque</source>
+        <target state="needs-review-translation">Dosya diskte değiştiğinde yeniden yükle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher" xml:space="preserve">
+        <source>Rechercher</source>
+        <target state="needs-review-translation">Ara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher dans l'aide-mémoire" xml:space="preserve">
+        <source>Rechercher dans l'aide-mémoire</source>
+        <target state="needs-review-translation">Özet kılavuzunda ara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réduire le texte" xml:space="preserve">
+        <source>Réduire le texte</source>
+        <target state="needs-review-translation">Metni Küçült</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réglages de lecture" xml:space="preserve">
+        <source>Réglages de lecture</source>
+        <target state="needs-review-translation">Okuma Seçenekleri</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans langage" xml:space="preserve">
+        <source>Sans langage</source>
+        <target state="needs-review-translation">Dil yok</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sans titre" xml:space="preserve">
+        <source>Sans titre</source>
+        <target state="needs-review-translation">Adsız</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Saut de ligne" xml:space="preserve">
+        <source>Saut de ligne</source>
+        <target state="needs-review-translation">Satır sonu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sombre" xml:space="preserve">
+        <source>Sombre</source>
+        <target state="needs-review-translation">Koyu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sommaire" xml:space="preserve">
+        <source>Sommaire</source>
+        <target state="needs-review-translation">İçindekiler</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Surlignage, indice, exposant, emoji" xml:space="preserve">
+        <source>Surlignage, indice, exposant, emoji</source>
+        <target state="needs-review-translation">Vurgulama, alt simge, üst simge, emoji</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Séparateur" xml:space="preserve">
+        <source>Séparateur</source>
+        <target state="needs-review-translation">Ayırıcı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableau" xml:space="preserve">
+        <source>Tableau</source>
+        <target state="needs-review-translation">Tablo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tableaux" xml:space="preserve">
+        <source>Tableaux</source>
+        <target state="needs-review-translation">Tablolar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille" xml:space="preserve">
+        <source>Taille</source>
+        <target state="needs-review-translation">Boyut</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte" xml:space="preserve">
+        <source>Taille du texte</source>
+        <target state="needs-review-translation">Metin boyutu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille du texte, thème et apparence" xml:space="preserve">
+        <source>Taille du texte, thème et apparence</source>
+        <target state="needs-review-translation">Metin boyutu, tema ve görünüm</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Taille par défaut" xml:space="preserve">
+        <source>Taille par défaut</source>
+        <target state="needs-review-translation">Varsayılan Boyut</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Terminé" xml:space="preserve">
+        <source>Terminé</source>
+        <target state="needs-review-translation">Bitti</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Texte" xml:space="preserve">
+        <source>Texte</source>
+        <target state="needs-review-translation">Metin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème" xml:space="preserve">
+        <source>Thème</source>
+        <target state="needs-review-translation">Tema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thème personnalisé" xml:space="preserve">
+        <source>Thème personnalisé</source>
+        <target state="needs-review-translation">Özel tema</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre" xml:space="preserve">
+        <source>Titre</source>
+        <target state="needs-review-translation">Başlık</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 1" xml:space="preserve">
+        <source>Titre 1</source>
+        <target state="needs-review-translation">Başlık 1</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 2" xml:space="preserve">
+        <source>Titre 2</source>
+        <target state="needs-review-translation">Başlık 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre 3" xml:space="preserve">
+        <source>Titre 3</source>
+        <target state="needs-review-translation">Başlık 3</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titre souligné" xml:space="preserve">
+        <source>Titre souligné</source>
+        <target state="needs-review-translation">Altı çizili başlık</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres" xml:space="preserve">
+        <source>Titres</source>
+        <target state="needs-review-translation">Başlıklar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Titres 4 à 6" xml:space="preserve">
+        <source>Titres 4 à 6</source>
+        <target state="needs-review-translation">4 ila 6. başlıklar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Typographie" xml:space="preserve">
+        <source>Typographie</source>
+        <target state="needs-review-translation">Tipografi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tâches" xml:space="preserve">
+        <source>Tâches</source>
+        <target state="needs-review-translation">Görevler</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="US Letter" xml:space="preserve">
+        <source>US Letter</source>
+        <target state="needs-review-translation">US Letter</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
+        <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
+        <target state="needs-review-translation">``` sonrasında bilinmeyen bir dil, etiketiyle birlikte renklendirmesiz bir kod bloğu verir.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Valeur" xml:space="preserve">
+        <source>Valeur</source>
+        <target state="needs-review-translation">Değer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un fichier" xml:space="preserve">
+        <source>Vers un fichier</source>
+        <target state="needs-review-translation">Bir dosyaya</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Vers un titre" xml:space="preserve">
+        <source>Vers un titre</source>
+        <target state="needs-review-translation">Bir başlığa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="accès" xml:space="preserve">
+        <source>accès</source>
+        <target state="needs-review-translation">erişim</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affiché tel quel, jamais interprété" xml:space="preserve">
+        <source>affiché tel quel, jamais interprété</source>
+        <target state="needs-review-translation">olduğu gibi gösterilir, asla yorumlanmaz</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme du texte ou du code" xml:space="preserve">
+        <source>affichés comme du texte ou du code</source>
+        <target state="needs-review-translation">metin veya kod olarak gösterilir</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="affichés comme une citation ordinaire" xml:space="preserve">
+        <source>affichés comme une citation ordinaire</source>
+        <target state="needs-review-translation">sıradan alıntı olarak gösterilir</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arbres" xml:space="preserve">
+        <source>arbres</source>
+        <target state="needs-review-translation">ağaçlar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="arrivée" xml:space="preserve">
+        <source>arrivée</source>
+        <target state="needs-review-translation">bitiş</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="automatique ; les « » se tapent directement" xml:space="preserve">
+        <source>automatique ; les « » se tapent directement</source>
+        <target state="needs-review-translation">otomatik; diğer tırnak işaretleri doğrudan yazılır</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="baobab" xml:space="preserve">
+        <source>baobab</source>
+        <target state="needs-review-translation">baobab</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="centre" xml:space="preserve">
+        <source>centre</source>
+        <target state="needs-review-translation">orta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="code" xml:space="preserve">
+        <source>code</source>
+        <target state="needs-review-translation">kod</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="description" xml:space="preserve">
+        <source>description</source>
+        <target state="needs-review-translation">açıklama</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="docs/guide.md" xml:space="preserve">
+        <source>docs/guide.md</source>
+        <target state="needs-review-translation">docs/guide.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="droite" xml:space="preserve">
+        <source>droite</source>
+        <target state="needs-review-translation">sağ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="départ" xml:space="preserve">
+        <source>départ</source>
+        <target state="needs-review-translation">başlangıç</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="entre chevrons, sinon pas de lien" xml:space="preserve">
+        <source>entre chevrons, sinon pas de lien</source>
+        <target state="needs-review-translation">açılı parantez içinde, yoksa bağlantı olmaz</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait" xml:space="preserve">
+        <source>fait</source>
+        <target state="needs-review-translation">yapıldı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fait défiler jusqu'au titre" xml:space="preserve">
+        <source>fait défiler jusqu'au titre</source>
+        <target state="needs-review-translation">başlığa kaydırır</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier local, chemin relatif ou absolu" xml:space="preserve">
+        <source>fichier local, chemin relatif ou absolu</source>
+        <target state="needs-review-translation">yerel dosya, göreli veya mutlak yol</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fichier.md" xml:space="preserve">
+        <source>fichier.md</source>
+        <target state="needs-review-translation">fichier.md</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="fin de ligne" xml:space="preserve">
+        <source>fin de ligne</source>
+        <target state="needs-review-translation">satır sonu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gauche" xml:space="preserve">
+        <source>gauche</source>
+        <target state="needs-review-translation">sol</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="image.png" xml:space="preserve">
+        <source>image.png</source>
+        <target state="needs-review-translation">image.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="images/plan.png" xml:space="preserve">
+        <source>images/plan.png</source>
+        <target state="needs-review-translation">images/plan.png</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jusqu'à ######" xml:space="preserve">
+        <source>jusqu'à ######</source>
+        <target state="needs-review-translation">###### düzeyine kadar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="langage" xml:space="preserve">
+        <source>langage</source>
+        <target state="needs-review-translation">dil</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="lu en %@" xml:space="preserve">
+        <source>lu en %@</source>
+        <target state="needs-review-translation">%@ olarak okundu</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mise en forme possible dans les cellules" xml:space="preserve">
+        <source>mise en forme possible dans les cellules</source>
+        <target state="needs-review-translation">hücrelerde biçimlendirme kullanılabilir</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="non reconnus" xml:space="preserve">
+        <source>non reconnus</source>
+        <target state="needs-review-translation">tanınmaz</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou *** et ___" xml:space="preserve">
+        <source>ou *** et ___</source>
+        <target state="needs-review-translation">veya *** ve ___</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou deux espaces en fin de ligne" xml:space="preserve">
+        <source>ou deux espaces en fin de ligne</source>
+        <target state="needs-review-translation">veya satır sonunda iki boşluk</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ou ~~~ à la place de ```" xml:space="preserve">
+        <source>ou ~~~ à la place de ```</source>
+        <target state="needs-review-translation">veya ``` yerine ~~~</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="oui" xml:space="preserve">
+        <source>oui</source>
+        <target state="needs-review-translation">evet</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas d'italique" xml:space="preserve">
+        <source>pas d'italique</source>
+        <target state="needs-review-translation">italik değil</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas de lien sans les chevrons &lt; &gt;" xml:space="preserve">
+        <source>pas de lien sans les chevrons &lt; &gt;</source>
+        <target state="needs-review-translation">&lt; &gt; olmadan bağlantı oluşmaz</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pas téléchargées : une icône et le texte alternatif" xml:space="preserve">
+        <source>pas téléchargées : une icône et le texte alternatif</source>
+        <target state="needs-review-translation">indirilmez: bir simge ve alternatif metin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="premier niveau" xml:space="preserve">
+        <source>premier niveau</source>
+        <target state="needs-review-translation">birinci düzey</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="quatrième" xml:space="preserve">
+        <source>quatrième</source>
+        <target state="needs-review-translation">dördüncü</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="restent du texte" xml:space="preserve">
+        <source>restent du texte</source>
+        <target state="needs-review-translation">metin olarak kalır</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="second" xml:space="preserve">
+        <source>second</source>
+        <target state="needs-review-translation">ikinci</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="suite" xml:space="preserve">
+        <source>suite</source>
+        <target state="needs-review-translation">devamı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="tamarinier" xml:space="preserve">
+        <source>tamarinier</source>
+        <target state="needs-review-translation">demirhindi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte" xml:space="preserve">
+        <source>texte</source>
+        <target state="needs-review-translation">metin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte brut" xml:space="preserve">
+        <source>texte brut</source>
+        <target state="needs-review-translation">düz metin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="texte cité" xml:space="preserve">
+        <source>texte cité</source>
+        <target state="needs-review-translation">alıntılanan metin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="titre" xml:space="preserve">
+        <source>titre</source>
+        <target state="needs-review-translation">başlık</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="troisième" xml:space="preserve">
+        <source>troisième</source>
+        <target state="needs-review-translation">üçüncü</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="À puces" xml:space="preserve">
+        <source>À puces</source>
+        <target state="needs-review-translation">Madde işaretli</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Échappement" xml:space="preserve">
+        <source>Échappement</source>
+        <target state="needs-review-translation">Kaçış</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="à faire" xml:space="preserve">
+        <source>à faire</source>
+        <target state="needs-review-translation">yapılacak</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="élément" xml:space="preserve">
+        <source>élément</source>
+        <target state="needs-review-translation">öğe</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
