@@ -84,6 +84,22 @@ final class SnapshotTests: XCTestCase {
         try snapshotWindow(paper, size: CGSize(width: 1100, height: 720), dark: true, name: "document-paper-dark")
     }
 
+    /// The tinted built-in themes, in both appearances.
+    func testTintedThemes() throws {
+        let url = try sampleFile()
+        let content = MarkdownFile.Content.text(DecodedText(text: Self.sample, encoding: .utf8))
+        let themes = [(ThemeLibrary.slateID, "slate"), (ThemeLibrary.lagoonID, "lagoon"),
+                      (ThemeLibrary.coralID, "coral"), (ThemeLibrary.typewriterID, "typewriter")]
+        for (id, name) in themes {
+            defaults.set(id, forKey: Preferences.themeID)
+            let view = DocumentWindow(fileURL: url, content: content).defaultAppStorage(defaults)
+            for dark in [false, true] {
+                try snapshotWindow(view, size: CGSize(width: 900, height: 640), dark: dark,
+                                   name: "document-\(name)-\(dark ? "dark" : "light")")
+            }
+        }
+    }
+
     func testOutlineSidebar() throws {
         let model = DocumentModel(content: .text(DecodedText(text: Self.sample, encoding: .utf8)))
         model.currentHeadingID = "utilisation"
@@ -196,7 +212,7 @@ final class SnapshotTests: XCTestCase {
 }
 
 /// The Viewer's toolbar contents laid out as in the document window: outline button and
-/// title on the left, « Aa » and share, then « Modifier » apart at the right.
+/// title on the left, « Aa », find and share, then « Modifier » apart at the right.
 private struct ViewerToolbarStrip: View {
     let fileURL: URL
     @State private var visibility = NavigationSplitViewVisibility.all
@@ -211,6 +227,7 @@ private struct ViewerToolbarStrip: View {
             }
             Spacer()
             ReadingOptionsButton(isPresented: $showsOptions)
+            FindButton(model: DocumentModel(content: .text(DecodedText(text: "", encoding: .utf8))))
             ShareButton(fileURL: fileURL, exportPDF: {})
             EditButton(fileURL: fileURL, editor: EditorLauncher.shared)
                 .padding(.leading, 6)

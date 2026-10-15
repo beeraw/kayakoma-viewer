@@ -102,6 +102,11 @@
         <target state="needs-review-translation">外観</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Ardoise" xml:space="preserve">
+        <source>Ardoise</source>
+        <target state="needs-review-translation">スレート</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Aucun résultat" xml:space="preserve">
         <source>Aucun résultat</source>
         <target state="needs-review-translation">結果なし</target>
@@ -192,6 +197,16 @@
         <target state="needs-review-translation">クリップボードにコピーしました</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Corail" xml:space="preserve">
+        <source>Corail</source>
+        <target state="needs-review-translation">コーラル</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dactylo" xml:space="preserve">
+        <source>Dactylo</source>
+        <target state="needs-review-translation">タイプライター</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Dossier des thèmes" xml:space="preserve">
         <source>Dossier des thèmes</source>
         <target state="needs-review-translation">テーマフォルダ</target>
@@ -230,6 +245,11 @@
       <trans-unit id="Exporter en PDF…" xml:space="preserve">
         <source>Exporter en PDF…</source>
         <target state="needs-review-translation">PDFとして書き出す…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fenêtre" xml:space="preserve">
+        <source>Fenêtre</source>
+        <target state="needs-review-translation">ウインドウ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Fermer" xml:space="preserve">
@@ -310,6 +330,11 @@
       <trans-unit id="Km" xml:space="preserve">
         <source>Km</source>
         <target state="needs-review-translation">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lagon" xml:space="preserve">
+        <source>Lagon</source>
+        <target state="needs-review-translation">ラグーン</target>
         <note/>
       </trans-unit>
       <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
@@ -467,6 +492,26 @@
         <target state="needs-review-translation">チートシートを検索</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Rechercher dans le document" xml:space="preserve">
+        <source>Rechercher dans le document</source>
+        <target state="needs-review-translation">書類内を検索</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le précédent" xml:space="preserve">
+        <source>Rechercher le précédent</source>
+        <target state="needs-review-translation">前を検索</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le suivant" xml:space="preserve">
+        <source>Rechercher le suivant</source>
+        <target state="needs-review-translation">次を検索</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher…" xml:space="preserve">
+        <source>Rechercher…</source>
+        <target state="needs-review-translation">検索…</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Réduire le texte" xml:space="preserve">
         <source>Réduire le texte</source>
         <target state="needs-review-translation">テキストを小さくする</target>
@@ -615,6 +660,11 @@
       <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
         <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
         <target state="needs-review-translation">```の後ろに不明な言語を書くと、ハイライトなしでラベル付きのコードブロックになります。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utiliser la sélection pour rechercher" xml:space="preserve">
+        <source>Utiliser la sélection pour rechercher</source>
+        <target state="needs-review-translation">選択部分を検索に使用</target>
         <note/>
       </trans-unit>
       <trans-unit id="Valeur" xml:space="preserve">

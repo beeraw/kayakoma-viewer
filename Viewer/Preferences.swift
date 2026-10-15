@@ -15,7 +15,9 @@ enum Preferences {
     static let defaultFontSize: Double = 15
     static let fontSizeRange: ClosedRange<Double> = 10...28
     static let defaultMaxLineCharacters: Double = 90
-    static let maxLineCharactersRange: ClosedRange<Double> = 50...140
+    /// The top of the range lifts the limit: the text fills the window.
+    static let unlimitedLineCharacters: Double = 145
+    static let maxLineCharactersRange: ClosedRange<Double> = 50...unlimitedLineCharacters
     /// A document opens with its outline shown when it has at least this many headings.
     static let outlineHeadingThreshold = 4
 }

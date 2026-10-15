@@ -107,6 +107,11 @@
         <target state="translated">Appearance</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Ardoise" xml:space="preserve">
+        <source>Ardoise</source>
+        <target state="translated">Slate</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Aucun résultat" xml:space="preserve">
         <source>Aucun résultat</source>
         <target state="translated">No results</target>
@@ -197,6 +202,16 @@
         <target state="translated">Copied to the clipboard</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Corail" xml:space="preserve">
+        <source>Corail</source>
+        <target state="translated">Coral</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dactylo" xml:space="preserve">
+        <source>Dactylo</source>
+        <target state="translated">Typewriter</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Dossier des thèmes" xml:space="preserve">
         <source>Dossier des thèmes</source>
         <target state="translated">Themes Folder</target>
@@ -235,6 +250,11 @@
       <trans-unit id="Exporter en PDF…" xml:space="preserve">
         <source>Exporter en PDF…</source>
         <target state="translated">Export as PDF…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fenêtre" xml:space="preserve">
+        <source>Fenêtre</source>
+        <target state="translated">Window</target>
         <note/>
       </trans-unit>
       <trans-unit id="Fermer" xml:space="preserve">
@@ -315,6 +335,11 @@
       <trans-unit id="Km" xml:space="preserve">
         <source>Km</source>
         <target state="translated">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lagon" xml:space="preserve">
+        <source>Lagon</source>
+        <target state="translated">Lagoon</target>
         <note/>
       </trans-unit>
       <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
@@ -464,12 +489,32 @@
       </trans-unit>
       <trans-unit id="Rechercher" xml:space="preserve">
         <source>Rechercher</source>
-        <target state="translated">Search</target>
+        <target state="translated">Find</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rechercher dans l'aide-mémoire" xml:space="preserve">
         <source>Rechercher dans l'aide-mémoire</source>
         <target state="translated">Search the cheat sheet</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher dans le document" xml:space="preserve">
+        <source>Rechercher dans le document</source>
+        <target state="translated">Find in the document</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le précédent" xml:space="preserve">
+        <source>Rechercher le précédent</source>
+        <target state="translated">Find Previous</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le suivant" xml:space="preserve">
+        <source>Rechercher le suivant</source>
+        <target state="translated">Find Next</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher…" xml:space="preserve">
+        <source>Rechercher…</source>
+        <target state="translated">Find…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Réduire le texte" xml:space="preserve">
@@ -620,6 +665,11 @@
       <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
         <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
         <target state="translated">An unknown language after ``` gives a code block with its label, without highlighting.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utiliser la sélection pour rechercher" xml:space="preserve">
+        <source>Utiliser la sélection pour rechercher</source>
+        <target state="translated">Use Selection for Find</target>
         <note/>
       </trans-unit>
       <trans-unit id="Valeur" xml:space="preserve">

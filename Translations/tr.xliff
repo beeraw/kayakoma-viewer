@@ -107,6 +107,11 @@
         <target state="needs-review-translation">Görünüm</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Ardoise" xml:space="preserve">
+        <source>Ardoise</source>
+        <target state="needs-review-translation">Arduvaz</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Aucun résultat" xml:space="preserve">
         <source>Aucun résultat</source>
         <target state="needs-review-translation">Sonuç yok</target>
@@ -197,6 +202,16 @@
         <target state="needs-review-translation">Panoya kopyalandı</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Corail" xml:space="preserve">
+        <source>Corail</source>
+        <target state="needs-review-translation">Mercan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dactylo" xml:space="preserve">
+        <source>Dactylo</source>
+        <target state="needs-review-translation">Daktilo</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Dossier des thèmes" xml:space="preserve">
         <source>Dossier des thèmes</source>
         <target state="needs-review-translation">Temalar Klasörü</target>
@@ -235,6 +250,11 @@
       <trans-unit id="Exporter en PDF…" xml:space="preserve">
         <source>Exporter en PDF…</source>
         <target state="needs-review-translation">PDF Olarak Dışa Aktar…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fenêtre" xml:space="preserve">
+        <source>Fenêtre</source>
+        <target state="needs-review-translation">Pencere</target>
         <note/>
       </trans-unit>
       <trans-unit id="Fermer" xml:space="preserve">
@@ -315,6 +335,11 @@
       <trans-unit id="Km" xml:space="preserve">
         <source>Km</source>
         <target state="needs-review-translation">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lagon" xml:space="preserve">
+        <source>Lagon</source>
+        <target state="needs-review-translation">Lagün</target>
         <note/>
       </trans-unit>
       <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
@@ -472,6 +497,26 @@
         <target state="needs-review-translation">Özet kılavuzunda ara</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Rechercher dans le document" xml:space="preserve">
+        <source>Rechercher dans le document</source>
+        <target state="needs-review-translation">Belgede ara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le précédent" xml:space="preserve">
+        <source>Rechercher le précédent</source>
+        <target state="needs-review-translation">Öncekini Ara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le suivant" xml:space="preserve">
+        <source>Rechercher le suivant</source>
+        <target state="needs-review-translation">Sonrakini Ara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher…" xml:space="preserve">
+        <source>Rechercher…</source>
+        <target state="needs-review-translation">Ara…</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Réduire le texte" xml:space="preserve">
         <source>Réduire le texte</source>
         <target state="needs-review-translation">Metni Küçült</target>
@@ -620,6 +665,11 @@
       <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
         <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
         <target state="needs-review-translation">``` sonrasında bilinmeyen bir dil, etiketiyle birlikte renklendirmesiz bir kod bloğu verir.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utiliser la sélection pour rechercher" xml:space="preserve">
+        <source>Utiliser la sélection pour rechercher</source>
+        <target state="needs-review-translation">Aramak İçin Seçimi Kullan</target>
         <note/>
       </trans-unit>
       <trans-unit id="Valeur" xml:space="preserve">

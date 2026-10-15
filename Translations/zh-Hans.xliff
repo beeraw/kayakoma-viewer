@@ -102,6 +102,11 @@
         <target state="needs-review-translation">外观</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Ardoise" xml:space="preserve">
+        <source>Ardoise</source>
+        <target state="needs-review-translation">石板</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Aucun résultat" xml:space="preserve">
         <source>Aucun résultat</source>
         <target state="needs-review-translation">无结果</target>
@@ -192,6 +197,16 @@
         <target state="needs-review-translation">已拷贝到剪贴板</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Corail" xml:space="preserve">
+        <source>Corail</source>
+        <target state="needs-review-translation">珊瑚</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dactylo" xml:space="preserve">
+        <source>Dactylo</source>
+        <target state="needs-review-translation">打字机</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Dossier des thèmes" xml:space="preserve">
         <source>Dossier des thèmes</source>
         <target state="needs-review-translation">主题文件夹</target>
@@ -230,6 +245,11 @@
       <trans-unit id="Exporter en PDF…" xml:space="preserve">
         <source>Exporter en PDF…</source>
         <target state="needs-review-translation">导出为 PDF…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fenêtre" xml:space="preserve">
+        <source>Fenêtre</source>
+        <target state="needs-review-translation">窗口</target>
         <note/>
       </trans-unit>
       <trans-unit id="Fermer" xml:space="preserve">
@@ -310,6 +330,11 @@
       <trans-unit id="Km" xml:space="preserve">
         <source>Km</source>
         <target state="needs-review-translation">公里</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Lagon" xml:space="preserve">
+        <source>Lagon</source>
+        <target state="needs-review-translation">潟湖</target>
         <note/>
       </trans-unit>
       <trans-unit id="Langage inconnu : bloc avec son étiquette, sans coloration." xml:space="preserve">
@@ -467,6 +492,26 @@
         <target state="needs-review-translation">搜索速查表</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Rechercher dans le document" xml:space="preserve">
+        <source>Rechercher dans le document</source>
+        <target state="needs-review-translation">在文稿中查找</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le précédent" xml:space="preserve">
+        <source>Rechercher le précédent</source>
+        <target state="needs-review-translation">搜索上一个</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher le suivant" xml:space="preserve">
+        <source>Rechercher le suivant</source>
+        <target state="needs-review-translation">搜索下一个</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher…" xml:space="preserve">
+        <source>Rechercher…</source>
+        <target state="needs-review-translation">搜索…</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Réduire le texte" xml:space="preserve">
         <source>Réduire le texte</source>
         <target state="needs-review-translation">缩小文字</target>
@@ -615,6 +660,11 @@
       <trans-unit id="Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration." xml:space="preserve">
         <source>Un langage inconnu après ``` donne un bloc de code avec son étiquette, sans coloration.</source>
         <target state="needs-review-translation">``` 后面跟未知语言时，会得到带标签的代码块，不进行语法高亮。</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Utiliser la sélection pour rechercher" xml:space="preserve">
+        <source>Utiliser la sélection pour rechercher</source>
+        <target state="needs-review-translation">使用所选内容搜索</target>
         <note/>
       </trans-unit>
       <trans-unit id="Valeur" xml:space="preserve">

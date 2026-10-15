@@ -6,6 +6,7 @@ import SwiftUI
 struct DocumentActions {
     let fileURL: URL?
     let exportPDF: @MainActor () -> Void
+    let find: @MainActor (NSTextFinder.Action) -> Void
 }
 
 private struct DocumentActionsKey: FocusedValueKey {
@@ -87,7 +88,8 @@ struct DocumentWindow: View {
         .onChange(of: columnVisibility) { _, visibility in
             outlineState = visibility == .detailOnly ? "hidden" : "shown"
         }
-        .focusedSceneValue(\.documentActions, DocumentActions(fileURL: fileURL, exportPDF: exportPDF))
+        .focusedSceneValue(\.documentActions, DocumentActions(fileURL: fileURL, exportPDF: exportPDF,
+                                                             find: { [model] in model.performFind($0) }))
     }
 
     /// The native toolbar with soft icon buttons; « Modifier » keeps
@@ -100,6 +102,11 @@ struct DocumentWindow: View {
 
         ToolbarItem(placement: .primaryAction) {
             ReadingOptionsButton(isPresented: $showsReadingOptions)
+        }
+        .softToolbarItem()
+
+        ToolbarItem(placement: .primaryAction) {
+            FindButton(model: model)
         }
         .softToolbarItem()
 
@@ -202,6 +209,20 @@ struct ReadingOptionsButton: View {
         .popover(isPresented: $isPresented, arrowEdge: .bottom) {
             ReadingOptionsView()
         }
+    }
+}
+
+struct FindButton: View {
+    let model: DocumentModel
+
+    var body: some View {
+        Button {
+            model.performFind(.showFindInterface)
+        } label: {
+            Label("Rechercher", systemImage: "magnifyingglass")
+        }
+        .buttonStyle(SoftIconButtonStyle())
+        .help("Rechercher dans le document")
     }
 }
 

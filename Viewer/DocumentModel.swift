@@ -106,6 +106,17 @@ final class DocumentModel {
         isFollowingOutline = false
     }
 
+    /// Sends a find action (show the find bar, next match…) to the document's text.
+    func performFind(_ action: NSTextFinder.Action) {
+        guard let textView = view?.contentTextView else { return }
+        if action == .showFindInterface {
+            textView.window?.makeFirstResponder(textView)
+        }
+        let item = NSMenuItem()
+        item.tag = action.rawValue
+        textView.performTextFinderAction(item)
+    }
+
     /// Follows the reader's scrolling: the current heading is the last one
     /// that starts at or above the top visible line.
     func topVisibleLineChanged(_ line: Int) {

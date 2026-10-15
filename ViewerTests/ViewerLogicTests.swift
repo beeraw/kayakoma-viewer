@@ -1,3 +1,4 @@
+import AppKit
 import KayakomaKit
 import XCTest
 
@@ -52,6 +53,38 @@ final class ViewerLogicTests: XCTestCase {
         XCTAssertEqual(model.currentHeadingID, "three")
     }
 
+    /// The find actions of the menu and the toolbar reach the document's text.
+    @MainActor
+    func testFindOpensTheFindBar() throws {
+        let source = "# Tides\n\nThe reef at low tide.\n\nThe lagoon at high tide.\n"
+        let model = DocumentModel(content: .text(DecodedText(text: source, encoding: .utf8)))
+        let view = MarkdownView(frame: NSRect(x: 0, y: 0, width: 480, height: 360))
+        view.document = model.document
+        model.view = view
+        let window = NSWindow(contentRect: view.frame, styleMask: [.titled], backing: .buffered, defer: false)
+        window.isReleasedWhenClosed = false
+        window.contentView = view
+        defer { window.close() }
+        let textView = try XCTUnwrap(view.contentTextView)
+        let scrollView = try XCTUnwrap(textView.enclosingScrollView)
+        XCTAssertFalse(scrollView.isFindBarVisible)
+        model.performFind(.showFindInterface)
+        RunLoop.main.run(until: Date().addingTimeInterval(0.3))
+        XCTAssertTrue(scrollView.isFindBarVisible)
+    }
+
+    @MainActor
+    func testBuiltInThemesAreDistinct() {
+        let entries = ThemeLibrary(folderURL: URL(fileURLWithPath: "/nonexistent-themes")).builtInEntries
+        XCTAssertEqual(entries.count, 6)
+        XCTAssertEqual(Set(entries.map(\.id)).count, 6)
+        let themes = entries.compactMap(\.theme)
+        XCTAssertEqual(themes.count, 6)
+        for (index, theme) in themes.enumerated() {
+            XCTAssertFalse(themes[..<index].contains(theme), "\(entries[index].id) repeats another theme")
+        }
+    }
+
     func testThemeErrorNamesTheKey() {
         let result = ThemeLibrary.decodeTheme(Data(#"{ "headings": { "2": { "wieght": "bold" } } }"#.utf8))
         guard case .failure(let error) = result else { return XCTFail("decoded an invalid theme") }
@@ -78,5 +111,11 @@ final class ViewerLogicTests: XCTestCase {
         XCTAssertEqual(theme.fontSize, 21)
         XCTAssertEqual(theme.headings[level: 1].size, 42)
         XCTAssertEqual(theme.maxLineWidth, 840)
+    }
+
+    func testTopOfLineWidthRangeLiftsTheLimit() {
+        let theme = Theme.viewerDefault.applyingReadingSettings(
+            fontSize: 15, maxLineCharacters: Preferences.maxLineCharactersRange.upperBound)
+        XCTAssertNil(theme.maxLineWidth)
     }
 }

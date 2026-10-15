@@ -39,7 +39,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
 }
 
 /// Menu bar additions: Open in Editor and Export as PDF in the File menu,
-/// text size in the View menu.
+/// Find in the Edit menu, text size in the View menu.
 struct ViewerCommands: Commands {
     @FocusedValue(\.documentActions) private var actions
     @ObservedObject private var editor = EditorLauncher.shared
@@ -57,6 +57,21 @@ struct ViewerCommands: Commands {
             Button("Exporter en PDF…") { actions?.exportPDF() }
                 .keyboardShortcut("e", modifiers: [.command, .option])
                 .disabled(actions == nil)
+        }
+
+        // ⌘E is Open in Editor here, so Use Selection for Find has no shortcut.
+        CommandGroup(after: .pasteboard) {
+            Divider()
+            Menu("Rechercher") {
+                Button("Rechercher…") { actions?.find(.showFindInterface) }
+                    .keyboardShortcut("f")
+                Button("Rechercher le suivant") { actions?.find(.nextMatch) }
+                    .keyboardShortcut("g")
+                Button("Rechercher le précédent") { actions?.find(.previousMatch) }
+                    .keyboardShortcut("g", modifiers: [.command, .shift])
+                Button("Utiliser la sélection pour rechercher") { actions?.find(.setSearchString) }
+            }
+            .disabled(actions == nil)
         }
 
         CommandGroup(after: .sidebar) {
