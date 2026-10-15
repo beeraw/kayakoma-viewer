@@ -19,12 +19,14 @@ The sample document shown above is invented.
 
 Download the latest version from the [Releases page](https://github.com/beeraw/kayakoma-viewer/releases/latest), unzip it and move Kayakoma Viewer to your Applications folder. The app is not notarized by Apple, so macOS blocks it the first time: click "Open Anyway" for Kayakoma Viewer in System Settings > Privacy & Security (the release notes give the details), then launch it once so that the Quick Look extension registers.
 
+From version 1.1.0, the app keeps itself up to date: see [Updates](#updates).
+
 ## Features
 
 - Opens Markdown (`.md`, `.markdown`, `.mdown`, `.mkd`) and plain text (`.txt`) files. Documents are never modified.
 - Outline sidebar, with the word count and an estimated reading time. It opens by itself from 4 headings (a setting turns this off) and a toolbar button shows or hides it.
 - Reading options in the "Aa" popover of the toolbar: text size, theme, and Auto / Light / Dark appearance. Text size also has shortcuts in the View menu (Command-plus, Command-minus, Command-0).
-- Themes: two built in (Default and Paper) plus your own JSON files, see [Themes](#themes).
+- Themes: six built in (Default, Paper, Slate, Lagoon, Coral and Typewriter) plus your own JSON files, see [Themes](#themes).
 - Live reload: the document is rendered again when the file changes on disk (a setting turns this off).
 - PDF export in A4 or US Letter, with real text and clickable links (File > Export as PDF…, Option-Command-E).
 - Open in Editor (Command-E) hands the file to Kayakoma Editor; the item only appears when the Editor is installed.
@@ -32,7 +34,15 @@ Download the latest version from the [Releases page](https://github.com/beeraw/k
 - Encodings: UTF-8 (with or without BOM) and UTF-16 with BOM. A file that is not valid UTF-8 is read as Windows-1252, then as ISO Latin-1, so that it still opens. The file is displayed as it was read; nothing is converted on disk.
 - Files that cannot be shown as Markdown (binary data, source code, JSON, CSV and other structured text) open a window that says so instead of garbage.
 - Relative images and links are resolved from the document's folder. Remote images are not loaded.
-- Interface in French and English.
+- Interface in 13 languages, see [Translations](#translations).
+
+## Updates
+
+From version 1.1.0, the app checks for a new version when it opens, then once a day. When one is found, a window shows what is new and offers to install it, and the app relaunches by itself. Nothing is installed without asking unless "Download and Install Without Asking" is turned on in Settings > Updates, where the checks can also be turned off. Kayakoma Viewer > Check for Updates… looks for one at any time.
+
+The checks only connect to github.com, to read the feed of the latest release and download the update; nothing about you or your files is sent. Each update is verified with an EdDSA signature before it is installed, and installing it this way does not bring back the "Open Anyway" step. Updates are done with [Sparkle](https://sparkle-project.org).
+
+Version 1.0.0 does not update itself: install 1.1.0 by hand once.
 
 ## Requirements
 

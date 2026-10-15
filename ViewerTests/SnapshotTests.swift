@@ -148,6 +148,52 @@ final class SnapshotTests: XCTestCase {
         }
     }
 
+    /// The update window in each of its states.
+    func testUpdateWindow() throws {
+        let notes = """
+        ## Nouveautés
+
+        - **Rechercher** dans le document : bouton loupe, `⌘F`, `⌘G`.
+        - Quatre thèmes : Ardoise, Lagon, Corail, Dactylo.
+        - Largeur de ligne **« Fenêtre »** : le texte occupe toute la largeur.
+
+        ### Corrections
+
+        - Le sommaire suit mieux le défilement.
+        """
+        let states: [(String, (UpdateModel) -> Void)] = [
+            ("found", { $0.showFound(.init(version: "1.2.0", notes: notes)) { _ in } }),
+            ("checking", { $0.showChecking {} }),
+            ("downloading", {
+                $0.showDownloadStarted {}
+                $0.setExpectedLength(8_200_000)
+                $0.addReceivedLength(5_100_000)
+            }),
+            ("ready", { $0.showReady { _ in } }),
+            ("uptodate", { $0.showUpToDate {} }),
+            ("failed", { $0.showFailed("Impossible de joindre le serveur.") {} }),
+        ]
+        for (name, show) in states {
+            let model = UpdateModel(currentVersion: "1.1.0")
+            model.releasesURL = URL(string: "https://example.com/releases")
+            show(model)
+            for dark in [false, true] {
+                try snapshotView(UpdateView(model: model, notesTheme: .viewerDefault).environment(\.softAccent, .lagoon),
+                                 dark: dark, name: "update-\(name)-\(dark ? "dark" : "light")")
+            }
+        }
+    }
+
+    func testUpdateSettings() throws {
+        let model = UpdateModel(currentVersion: "1.1.0")
+        for dark in [false, true] {
+            try snapshotView(VStack(spacing: 0) { UpdateSettingsSection(model: model) }
+                                .padding(20).frame(width: 540).background(SoftColor.chrome)
+                                .environment(\.softAccent, .lagoon),
+                             dark: dark, name: "update-settings-\(dark ? "dark" : "light")")
+        }
+    }
+
     /// Increase Contrast cannot be simulated offscreen: its appearances only
     /// serve for matching and cannot be created.
     static let appearances: [(NSAppearance.Name, String)] = [(.aqua, "light"), (.darkAqua, "dark")]

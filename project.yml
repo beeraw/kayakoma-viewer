@@ -12,6 +12,9 @@ packages:
   KayakomaKit:
     url: https://github.com/beeraw/kayakoma-kit.git
     from: 1.1.0
+  Sparkle:
+    url: https://github.com/sparkle-project/Sparkle
+    from: 2.10.0
 
 settings:
   base:
@@ -25,6 +28,11 @@ settings:
     # validation then refuses the embedded KayakomaShared framework. Turn it
     # back on when signing with a Developer ID team (needed to notarize).
     ENABLE_HARDENED_RUNTIME: NO
+    # Public half of the key that signs updates (the private half is a secret
+    # of the release workflow).
+    SPARKLE_PUBLIC_ED_KEY: BBN18sSSgz/SFn3LJQKG5nkjLbJb24wnkvNgdoZk9w0=
+    # The appcast is a file of the latest release.
+    SPARKLE_FEED_URL: https://github.com/beeraw/kayakoma-viewer/releases/latest/download/appcast.xml
 
 targets:
   Viewer:
@@ -36,6 +44,7 @@ targets:
         embed: true
       - target: QuickLook
         embed: true
+      - package: Sparkle
     # Writes Translations/*.xliff into the string catalog before it is
     # compiled. The script sandbox only lets it read the files it declares:
     # the XLIFF files come from Translations/Translations.xcfilelist, which
@@ -68,6 +77,12 @@ targets:
         # Read-write so that the save panel can write exported PDFs.
         com.apple.security.files.user-selected.read-write: true
         com.apple.security.temporary-exception.files.absolute-path.read-only: ["/"]
+        # Updates: the app downloads them itself, and Sparkle's installer runs
+        # outside the sandbox through these two services.
+        com.apple.security.network.client: true
+        com.apple.security.temporary-exception.mach-lookup.global-name:
+          - $(PRODUCT_BUNDLE_IDENTIFIER)-spks
+          - $(PRODUCT_BUNDLE_IDENTIFIER)-spki
     info:
       path: Viewer/Info.plist
       properties:
@@ -75,6 +90,12 @@ targets:
         CFBundleShortVersionString: $(MARKETING_VERSION)
         CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         LSApplicationCategoryType: public.app-category.productivity
+        # Updates: checks start without asking, installing always asks.
+        SUFeedURL: $(SPARKLE_FEED_URL)
+        SUPublicEDKey: $(SPARKLE_PUBLIC_ED_KEY)
+        SUEnableInstallerLauncherService: true
+        SUEnableAutomaticChecks: true
+        SUVerifyUpdateBeforeExtraction: true
         CFBundleDocumentTypes:
           - CFBundleTypeName: Markdown
             CFBundleTypeRole: Viewer
@@ -153,6 +174,7 @@ targets:
       - path: Viewer
         excludes:
           - ViewerApp.swift
+          - SparkleUpdater.swift
           - Info.plist
           - Viewer.entitlements
           - AppIcon.icon

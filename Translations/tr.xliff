@@ -2,6 +2,21 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="Viewer/Localizable.xcstrings" source-language="fr" target-language="tr" datatype="plaintext">
     <body>
+      <trans-unit id="%@ %@ est disponible" xml:space="preserve">
+        <source>%@ %@ est disponible</source>
+        <target state="needs-review-translation">%@ %@ kullanılabilir</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ est à jour" xml:space="preserve">
+        <source>%@ est à jour</source>
+        <target state="needs-review-translation">%@ güncel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@ sur %@" xml:space="preserve">
+        <source>%@ sur %@</source>
+        <target state="needs-review-translation">%@ / %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="%lld car." xml:space="preserve">
         <source>%lld car.</source>
         <target state="needs-review-translation">%lld karakter</target>
@@ -100,6 +115,11 @@
       <trans-unit id="Alignement" xml:space="preserve">
         <source>Alignement</source>
         <target state="needs-review-translation">Hizalama</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Annuler" xml:space="preserve">
+        <source>Annuler</source>
+        <target state="needs-review-translation">Vazgeç</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apparence" xml:space="preserve">
@@ -212,6 +232,11 @@
         <target state="needs-review-translation">Daktilo</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Dernière recherche : %@" xml:space="preserve">
+        <source>Dernière recherche : %@</source>
+        <target state="needs-review-translation">Son denetim: %@</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Dossier des thèmes" xml:space="preserve">
         <source>Dossier des thèmes</source>
         <target state="needs-review-translation">Temalar Klasörü</target>
@@ -302,6 +327,11 @@
         <target state="needs-review-translation">HTML</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Ignorer cette version" xml:space="preserve">
+        <source>Ignorer cette version</source>
+        <target state="needs-review-translation">Bu sürümü atla</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
         <source>Image</source>
         <target state="needs-review-translation">Görsel</target>
@@ -327,14 +357,59 @@
         <target state="needs-review-translation">Girintili</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Installation en quelques secondes ; l'appli se relance toute seule." xml:space="preserve">
+        <source>Installation en quelques secondes ; l'appli se relance toute seule.</source>
+        <target state="needs-review-translation">Birkaç saniyede yüklenir; uygulama kendiliğinden yeniden açılır.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Installer et relancer" xml:space="preserve">
+        <source>Installer et relancer</source>
+        <target state="needs-review-translation">Yükle ve yeniden aç</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Installer quand l'appli sera quittée" xml:space="preserve">
+        <source>Installer quand l'appli sera quittée</source>
+        <target state="needs-review-translation">Uygulamadan çıkıldığında yükle</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Installée à la fermeture de l'appli" xml:space="preserve">
+        <source>Installée à la fermeture de l'appli</source>
+        <target state="needs-review-translation">Uygulamadan çıkıldığında yüklenir</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Italique" xml:space="preserve">
         <source>Italique</source>
         <target state="needs-review-translation">İtalik</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Jamais recherchées" xml:space="preserve">
+        <source>Jamais recherchées</source>
+        <target state="needs-review-translation">Hiç denetlenmedi</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Km" xml:space="preserve">
         <source>Km</source>
         <target state="needs-review-translation">Km</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="L'appli se fermera, puis se relancera aussitôt." xml:space="preserve">
+        <source>L'appli se fermera, puis se relancera aussitôt.</source>
+        <target state="needs-review-translation">Uygulama kapanacak ve hemen yeniden açılacak.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="La mise à jour est prête" xml:space="preserve">
+        <source>La mise à jour est prête</source>
+        <target state="needs-review-translation">Güncelleme hazır</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="La mise à jour n'a pas pu être installée" xml:space="preserve">
+        <source>La mise à jour n'a pas pu être installée</source>
+        <target state="needs-review-translation">Güncelleme yüklenemedi</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="La version %@ est la plus récente." xml:space="preserve">
+        <source>La version %@ est la plus récente.</source>
+        <target state="needs-review-translation">%@ sürümü en yeni sürüm.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Lagon" xml:space="preserve">
@@ -387,6 +462,16 @@
         <target state="needs-review-translation">Tanım listeleri, başlık kimlikleri, hücre birleştirme</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Mise à jour" xml:space="preserve">
+        <source>Mise à jour</source>
+        <target state="needs-review-translation">Güncelleme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mises à jour" xml:space="preserve">
+        <source>Mises à jour</source>
+        <target state="needs-review-translation">Güncellemeler</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Mode" xml:space="preserve">
         <source>Mode</source>
         <target state="needs-review-translation">Mod</target>
@@ -415,6 +500,11 @@
       <trans-unit id="Numérotée" xml:space="preserve">
         <source>Numérotée</source>
         <target state="needs-review-translation">Numaralı</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="needs-review-translation">Tamam</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ouvrir dans l'Éditeur" xml:space="preserve">
@@ -447,6 +537,11 @@
         <target state="needs-review-translation">Aç…</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Page des versions" xml:space="preserve">
+        <source>Page des versions</source>
+        <target state="needs-review-translation">Sürümler sayfası</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Papier" xml:space="preserve">
         <source>Papier</source>
         <target state="needs-review-translation">Kâğıt</target>
@@ -477,9 +572,19 @@
         <target state="needs-review-translation">Harita</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Plus tard" xml:space="preserve">
+        <source>Plus tard</source>
+        <target state="needs-review-translation">Daha sonra</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Ponton" xml:space="preserve">
         <source>Ponton</source>
         <target state="needs-review-translation">İskele</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Préparation de la mise à jour…" xml:space="preserve">
+        <source>Préparation de la mise à jour…</source>
+        <target state="needs-review-translation">Güncelleme hazırlanıyor…</target>
         <note/>
       </trans-unit>
       <trans-unit id="Recharger quand le fichier change sur le disque" xml:space="preserve">
@@ -487,9 +592,19 @@
         <target state="needs-review-translation">Dosya diskte değiştiğinde yeniden yükle</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Recherche de mises à jour…" xml:space="preserve">
+        <source>Recherche de mises à jour…</source>
+        <target state="needs-review-translation">Güncellemeler denetleniyor…</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Rechercher" xml:space="preserve">
         <source>Rechercher</source>
         <target state="needs-review-translation">Ara</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher automatiquement" xml:space="preserve">
+        <source>Rechercher automatiquement</source>
+        <target state="needs-review-translation">Otomatik olarak denetle</target>
         <note/>
       </trans-unit>
       <trans-unit id="Rechercher dans l'aide-mémoire" xml:space="preserve">
@@ -512,6 +627,16 @@
         <target state="needs-review-translation">Sonrakini Ara</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Rechercher les mises à jour…" xml:space="preserve">
+        <source>Rechercher les mises à jour…</source>
+        <target state="needs-review-translation">Güncellemeleri denetle…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rechercher maintenant" xml:space="preserve">
+        <source>Rechercher maintenant</source>
+        <target state="needs-review-translation">Şimdi denetle</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="Rechercher…" xml:space="preserve">
         <source>Rechercher…</source>
         <target state="needs-review-translation">Ara…</target>
@@ -520,6 +645,16 @@
       <trans-unit id="Réduire le texte" xml:space="preserve">
         <source>Réduire le texte</source>
         <target state="needs-review-translation">Metni Küçült</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réessayer" xml:space="preserve">
+        <source>Réessayer</source>
+        <target state="needs-review-translation">Yeniden Dene</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Réessayez plus tard, ou téléchargez la version depuis la page des versions." xml:space="preserve">
+        <source>Réessayez plus tard, ou téléchargez la version depuis la page des versions.</source>
+        <target state="needs-review-translation">Daha sonra yeniden deneyin veya sürümü sürümler sayfasından indirin.</target>
         <note/>
       </trans-unit>
       <trans-unit id="Réglages de lecture" xml:space="preserve">
@@ -657,6 +792,16 @@
         <target state="needs-review-translation">Görevler</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Téléchargement…" xml:space="preserve">
+        <source>Téléchargement…</source>
+        <target state="needs-review-translation">İndiriliyor…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Télécharger et installer sans demander" xml:space="preserve">
+        <source>Télécharger et installer sans demander</source>
+        <target state="needs-review-translation">Sormadan indir ve yükle</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="US Letter" xml:space="preserve">
         <source>US Letter</source>
         <target state="needs-review-translation">US Letter</target>
@@ -685,6 +830,11 @@
       <trans-unit id="Vers un titre" xml:space="preserve">
         <source>Vers un titre</source>
         <target state="needs-review-translation">Bir başlığa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version %@" xml:space="preserve">
+        <source>Version %@</source>
+        <target state="needs-review-translation">Sürüm %@</target>
         <note/>
       </trans-unit>
       <trans-unit id="accès" xml:space="preserve">
@@ -915,6 +1065,21 @@
       <trans-unit id="troisième" xml:space="preserve">
         <source>troisième</source>
         <target state="needs-review-translation">üçüncü</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="vous avez %@" xml:space="preserve">
+        <source>vous avez %@</source>
+        <target state="needs-review-translation">yüklü: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="À l'ouverture, puis une fois par jour" xml:space="preserve">
+        <source>À l'ouverture, puis une fois par jour</source>
+        <target state="needs-review-translation">Açılışta, sonra günde bir kez</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="À la fermeture" xml:space="preserve">
+        <source>À la fermeture</source>
+        <target state="needs-review-translation">Çıkışta</target>
         <note/>
       </trans-unit>
       <trans-unit id="À puces" xml:space="preserve">

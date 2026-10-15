@@ -12,6 +12,7 @@ struct ViewerApp: App {
         }
         .commands {
             SidebarCommands()
+            UpdateCommands(model: .shared)
             ViewerCommands()
             MarkdownHelpCommands()
         }
@@ -23,6 +24,12 @@ struct ViewerApp: App {
 }
 
 final class AppDelegate: NSObject, NSApplicationDelegate {
+    private var updater: SparkleUpdater?
+
+    func applicationDidFinishLaunching(_ notification: Notification) {
+        updater = SparkleUpdater(model: .shared, accent: .lagoon, notesTheme: .viewerDefault)
+    }
+
     func applicationWillFinishLaunching(_ notification: Notification) {
         AppearanceMode.applyStored()
         NotificationCenter.default.addObserver(
